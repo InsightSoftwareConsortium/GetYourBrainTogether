@@ -15,6 +15,4 @@
 - **Transportation:** XXX 
 
 - **Communication:**
-  - To receive information about this and future events please join the Hackathon mailing list: XXX
-
-
+  - To receive information about this and future events please join the [Hackathon Mailing List](https://groups.google.com/g/brain_straight_hackathon_announcements).
