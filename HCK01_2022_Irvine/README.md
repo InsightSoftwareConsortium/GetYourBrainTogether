@@ -1,4 +1,4 @@
-<a href="https://cnlm.uci.edu/herklotz/"><img alt="UCI Center for the Neurobiology of Learning and Memory" src="https://cnlm.uci.edu/files/2019/07/UCI14_WEB_center_neuro_white.png"></a>
+<a href="https://cnlm.uci.edu/herklotz/"><img alt="UCI Center for the Neurobiology of Learning and Memory" src="UCI_CNLM_Logo.png"></a>
 
 # Welcome to the web page for the 1st Hackathon !
 
