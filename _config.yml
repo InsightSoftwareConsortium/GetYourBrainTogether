@@ -1,0 +1,10 @@
+theme: jekyll-theme-primer
+
+title: Get Your Brain Straight Workshops and Hackathons
+description: Materials related to the Get Your Brain Straight Neuroimage Registration Workshops and Hackathons
+
+plugins:
+  - jekyll-mentions
+  - jemoji
+
+encoding: UTF-8
