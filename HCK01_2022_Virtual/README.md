@@ -25,6 +25,9 @@ a specific brain imaging modality.
 
 # Before the Hackathon
 
+- [Register](https://forms.gle/eJEf7yQq4UeSc1zF9) for the event. It's free.
+- Sign up for the [mailing list](https://groups.google.com/g/brain_straight_hackathon_announcements).
+
 # During the Hackathon
 
 # Agenda
