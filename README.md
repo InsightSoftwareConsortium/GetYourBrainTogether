@@ -12,21 +12,11 @@
 
 #### What?
 
-
-#### When, where, how much?
-
-
-#### How does it work?
-
-
-#### Who can attend?
-
-
-#### Who should attend?
-
+The **Get Your Brain Straight** hackathons bring together neuroimage data generators, image registration researchers, and neurodata compute infrastructure providers for a hand-on, collabortive event. This collaboration aims to create reproducible, open source resources that enable discovery of the structure and function of brains.
 
 #### What is the history of the hackathons?
 
+This hackathon is inspired by and based on the successful [NeurodataWithoutBorders (NWB)](https://neurodatawithoutborders.github.io/nwb_hackathons/) and [NA-MIC Project Week](https://projectweek.na-mic.org/) hackathon.
 
 ---
 
