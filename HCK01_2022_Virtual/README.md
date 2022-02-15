@@ -9,7 +9,7 @@ work with open source registration tools, open access datasets, or neurodata
 archives. **Birds-of-a-Feather (BOF) Breakout** sessions enable parties
 interested in collaborating to come together. Finally, each hackathon targets
 the generation of a **Reproducible Resource** for registration and analysis of
-a specific brain imaging dataset.
+a specific brain imaging modality.
 
 ## Logistics
 
