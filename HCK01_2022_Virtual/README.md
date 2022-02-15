@@ -1,4 +1,4 @@
-<a href="https://cnlm.uci.edu/herklotz/"><img alt="UCI Center for the Neurobiology of Learning and Memory" src="UCI_CNLM_Logo.png"></a>
+<a href="https://brain-map.org"><img alt="Registered mouse light volumes" src="mouse_light_registered.png"></a>
 
 # Welcome to the web page for the 1st Get Your Brain Straight Hackathon !
 
