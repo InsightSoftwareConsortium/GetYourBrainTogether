@@ -4,7 +4,7 @@
 
 ### Upcoming Events
 
-- [Hackathon 1: March 2022](HCK01_2022_Irvine/README.md){:target="_top"} - The **1st Hackathon** will be held March 21st-24th, at UCI in Irvine, CA, USA.
+- [Hackathon 1: March 2022](HCK01_2022_Virtual/README.md){:target="_top"} - The **1st Hackathon** will be held April 4th-7th online.
 
 ### Past Events
 
