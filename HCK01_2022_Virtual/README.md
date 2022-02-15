@@ -21,8 +21,7 @@ a specific brain imaging dataset.
 
 - **Registration:** Fees: none, it's free! Use [this form](https://forms.gle/eJEf7yQq4UeSc1zF9) to register. Deadline: April 2nd.
 
-- **Communication:**
-  - To receive information about this and future events please join the [Hackathon Mailing List](https://groups.google.com/g/brain_straight_hackathon_announcements).
+- **Communication:** to receive information about this and future events please join the [Hackathon Mailing List](https://groups.google.com/g/brain_straight_hackathon_announcements).
 
 # Before the Hackathon
 
@@ -30,8 +29,8 @@ a specific brain imaging dataset.
 
 # Agenda
 
-# Reproducible Resource Project: CCFv3 of fMOST Mouse Brains
+## Reproducible Resource Project: fMOST Mouse Brain Registration to CCFv3
 
-# Tutorials
+## Tutorials
 
-# Birds-of-a-Feather Breakouts
+## Birds-of-a-Feather Breakouts
