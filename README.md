@@ -12,7 +12,11 @@
 
 #### What?
 
-The **Get Your Brain Straight** hackathons bring together neuroimage data generators, image registration researchers, and neurodata compute infrastructure providers for a hand-on, collabortive event. This collaboration aims to create reproducible, open source resources that enable discovery of the structure and function of brains.
+The **Get Your Brain Straight** hackathons bring together neuroimage data
+generators, image registration researchers, and neurodata compute
+infrastructure providers for a hand-on, collaborative event. This community
+collaboration aims to create reproducible, open source resources that enable
+discovery of the structure and function of brains.
 
 #### What is the history of the hackathons?
 
