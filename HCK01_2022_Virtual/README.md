@@ -50,6 +50,13 @@ On Thursday, 11 AM Pacific Time, 2 PM Eastern Time, participants will delegate o
 
 ## Reproducible Resource Challenge: fMOST Mouse Brain Registration to CCFv3
 
+This aim of this hackathon is to generate reproducible registration pipelines
+for registration of fMOST mouse brains to the CCFv3.
+
+<a name="reproducible-resource-list"/>
+
+[How to add a new reproducible registration processing pipeline?](./ReproducibleResource/README.md)
+
 ## Tutorials
 
 <a name="tutorials-list"/>
