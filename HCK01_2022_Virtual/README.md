@@ -50,6 +50,41 @@ On Thursday, 11 AM Pacific Time, 2 PM Eastern Time, participants will delegate o
 
 ## Reproducible Resource Challenge: fMOST Mouse Brain Registration to CCFv3
 
+This aim of this hackathon is to generate reproducible pipelines
+to register [fMOST mouse
+brains](https://knowledge.brain-map.org/data/K1YP17A0QIKJOMOAIS4/summary) to the [CCFv3](https://doi.org/10.1016/j.cell.2020.04.007).
+
+In order to work with the neuroimage data generators, these pipelines will take a standardized input without assumptions of directory structures, filenames, etc.
+The input is a single fMOST NIFTI brain volume. Expected outputs are: resampled brain, spatial transformation, and a manifest of outputs.
+The processing pipelines should be designed to executed in independently in parallel. The output should be a resampled image with the same size, orientation, and origin as the provided CCFv3.
+The output should include an affine transformation file and a deformation field transformation file to transform SWC and/or annotation files from the subject fMOST image space into the CCFv3 space.
+
+Criteria for inclusion in a summary paper:
+
+- [ ] Open source with an [OSI-approved license](https://opensource.org/licenses)
+  - The code can be executed in the future
+  - Researchers can understand what the code is doing
+  - Researchers can extend or fix as needed
+- Works on open standard data formats used by data providers and consumers
+  - [ ] NIFTI images
+- Deployable
+  - Can be executed across many environments
+  - [ ] Provided in a published [singularity](https://sylabs.io/guides/2.6/user-guide/introduction.html) image
+- [ ] Can be executed by an independent analyst on the BIL
+
+The primary goals for this hackathon is to ensure that everyone's code can run on the dataset provided and can be replicated.
+
+In the next hackathon, we will focus on:
+
+- Combine registration results and methods
+- Quantification and characterization of deformation patterns in fMOST imaging
+- Identify biologically relevant regions where improvements need to be made
+- Focus on accuracy quantification leading to potential improvements
+
+<a name="reproducible-resource-list"/>
+
+[How to add a new reproducible registration processing pipeline?](./ReproducibleResource/README.md)
+
 ## Tutorials
 
 <a name="tutorials-list"/>
