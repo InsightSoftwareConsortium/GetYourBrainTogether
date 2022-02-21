@@ -9,7 +9,7 @@ collaboration aims to create reproducible, open source resources that enable
 discovery of the structure and function of brains.
 
 There are three components to the hackathon.
-First, each hackathon targets the generation of a **Reproducible Resource** for registration and analysis of
+First, the primary goal of each hackathon is the generation of a **Reproducible Resource** for registration and analysis of
 a specific brain imaging modality.
 **Tutorial** sessions share how to work with open source registration tools, open access datasets, or neurodata
 archives.
@@ -41,8 +41,8 @@ interested in collaborating to come discuss and work on relevant topics.
 The week will start 8 AM Pacific Time, 11 AM Eastern Time, Monday, April 4th
 in an introductory all-hands videoconference.
 
-Following the introduction, join the tutorials, participate BoF breakouts, and
-work on the Reproducible Resource Challenge.
+Following the introduction, participate in the [Reproducible Resource
+Challenge](#reproducible-resource-challenge-fmost-mouse-brain-registration-to-ccfv3), join the [tutorials](#tutorials), and participate [BoF breakouts](#birds-of-a-feather-breakouts).
 
 On Thursday, 11 AM Pacific Time, 2 PM Eastern Time, participants will delegate one member to present their registration processing pipelines, results, and discuss lessons learned.
 
