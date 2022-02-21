@@ -52,6 +52,12 @@ On Thursday, 11 AM Pacific Time, 2 PM Eastern Time, participants will delegate o
 
 ## Tutorials
 
+<a name="tutorials-list"/>
+
+<a name="how-to-add-a-tutorial"/>
+
+[(How to add a new tutorial?)](./Tutorials/README.md)
+
 ## Birds-of-a-Feather Breakouts
 
 To lead or join a Birds-of-a-Feather (BoF) breakout session, create or join a
