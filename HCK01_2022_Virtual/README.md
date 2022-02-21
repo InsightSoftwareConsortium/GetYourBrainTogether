@@ -56,7 +56,7 @@ On Thursday, 11 AM Pacific Time, 2 PM Eastern Time, participants will delegate o
 
 <a name="how-to-add-a-tutorial"/>
 
-[(How to add a new tutorial?)](./Tutorials/README.md)
+[How to add a new tutorial?](./Tutorials/README.md)
 
 ## Birds-of-a-Feather Breakouts
 

@@ -9,7 +9,7 @@ notetaking.
 To add your notes,
 
 1. Go to [this folder on GitHub][bof-folder].
-2. Click on the *Add file* -> *Create new file* button.
+2. Click on the *Add file* -> *Create new file* buttons.
 3. Type `YourBoFTopicName.md`.
 4. Paste the content of the notes.
 5. Commit the result.
