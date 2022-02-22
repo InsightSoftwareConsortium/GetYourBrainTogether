@@ -1,4 +1,4 @@
-<a href="https://brain-map.org"><img alt="Registered mouse light volumes" src="mouse_light_registered.png"></a>
+<img alt="Get Your Brain Straight HCK01 Logo" src="logo.png">
 
 # Welcome to the web page for the 1st Get Your Brain Straight Hackathon !
 
