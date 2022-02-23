@@ -2,6 +2,8 @@
 
 # Welcome to the web page for the 1st Get Your Brain Straight Hackathon !
 
+## What?
+
 The **Get Your Brain Straight** hackathons bring together neuroimage data
 generators, image registration researchers, and neurodata compute
 infrastructure providers for a hand-on, collaborative event. This community
@@ -13,10 +15,10 @@ First, the primary goal of each hackathon is the generation of a **Reproducible 
 a specific brain imaging modality.
 **Tutorial** sessions share how to work with open source registration tools, open access datasets, or neurodata
 archives.
-**Birds-of-a-Feather (BOF) Breakout** sessions enable parties
-interested in collaborating to come discuss and work on relevant topics.
+**Birds-of-a-Feather (BOF) Breakout** sessions enable participants
+interested in collaborating to work on relevant topics.
 
-## Logistics
+## When, where, how much?
 
 - **Dates:** Monday, April 4th - Thursday, April 7th, 2022
 
@@ -28,7 +30,9 @@ interested in collaborating to come discuss and work on relevant topics.
 
 - **Communication:** to receive information about this and future events please join the [Hackathon Mailing List](https://groups.google.com/g/brain_straight_hackathon_announcements).
 
-# Before the Hackathon
+## How does it work?
+
+### Before the Hackathon
 
 - [Register](https://forms.gle/eJEf7yQq4UeSc1zF9) for the event. There is no
   cost.
@@ -36,7 +40,7 @@ interested in collaborating to come discuss and work on relevant topics.
 - [Set up an account](https://www.brainimagelibrary.org/computevisual.html) at the Brain Image Library (BIL).
 - Optionally prepare a tutorial or organize a Birds-of-a-Feather (BoF) Breakout, described below.
 
-# During the Hackathon
+### During the Hackathon
 
 The week will start 8 AM Pacific Time, 11 AM Eastern Time, Monday, April 4th
 in an introductory all-hands videoconference.
@@ -46,7 +50,11 @@ Challenge](#reproducible-resource-challenge-fmost-mouse-brain-registration-to-cc
 
 On Thursday, 11 AM Pacific Time, 2 PM Eastern Time, participants will delegate one member to present their registration processing pipelines, results, and discuss lessons learned.
 
-# Agenda
+## Who can attend?
+
+Get Your Brain Straight hackathons are open to all and publicly advertised. Email announcements are sent to the [mailing list](https://groups.google.com/g/brain_straight_hackathon_announcements).
+
+## Agenda
 
 ## Reproducible Resource Challenge: fMOST Mouse Brain Registration to CCFv3
 
@@ -54,8 +62,8 @@ This aim of this hackathon is to generate reproducible pipelines
 to register [fMOST mouse
 brains](https://knowledge.brain-map.org/data/K1YP17A0QIKJOMOAIS4/summary) to the [CCFv3](https://doi.org/10.1016/j.cell.2020.04.007).
 
-In order to work with the neuroimage data generators, these pipelines will take a standardized input without assumptions of directory structures, filenames, etc.
-The input is a single fMOST NIFTI brain volume. Expected outputs are: resampled brain, spatial transformation, and a manifest of outputs.
+In order to work with the neuroimage data generators, these pipelines will take a standardized input without assumptions of directory structures, filenames, etc and generate standardized outputs.
+The input is a single fMOST NIFTI brain volume. Expected outputs include: resampled brain, spatial transformation, and a manifest of outputs.
 The processing pipelines should be designed to executed in independently in parallel. The output should be a resampled image with the same size, orientation, and origin as the provided CCFv3.
 The output should include an affine transformation file and a deformation field transformation file to transform SWC and/or annotation files from the subject fMOST image space into the CCFv3 space.
 
@@ -74,7 +82,7 @@ Criteria for inclusion in a summary paper:
 
 The primary goals for this hackathon is to ensure that everyone's code can run on the dataset provided and can be replicated.
 
-In the next hackathon, we will focus on:
+In future hackathons, we will focus on:
 
 - Combine registration results and methods
 - Quantification and characterization of deformation patterns in fMOST imaging
@@ -87,6 +95,8 @@ In the next hackathon, we will focus on:
 
 ## Tutorials
 
+Tutorial sessions share how to work with open source registration tools, open access datasets, or neurodata
+
 <a name="tutorials-list"/>
 
 <a name="how-to-add-a-tutorial"/>
@@ -94,6 +104,9 @@ In the next hackathon, we will focus on:
 [How to add a new tutorial?](./Tutorials/README.md)
 
 ## Birds-of-a-Feather Breakouts
+
+Birds-of-a-Feather (BOF) breakout sessions enable participants
+interested in collaborating to work on relevant topics.
 
 To lead or join a Birds-of-a-Feather (BoF) breakout session, create or join a
 topic [in this
@@ -103,3 +116,7 @@ During the BoF, find the leader by clicking on their name in the [Image.sc Islan
 If notes are taken during the BoF, please add them to the [BoF breakouts
 folder](./BoFBreakouts). We recommend [HackMD](https://hackmd.io/) for collaborative,
 well-formatted notetaking.
+
+## Acknowledgements
+
+This hackathon is supported by the National Institute of Mental Health (NIMH) of the National Institutes of Health (NIH) under the [BRAIN Initiative](https://braininitiative.nih.gov/) award number [1RF1MH126732](https://projectreporter.nih.gov/project_info_description.cfm?aid=10259930), [1U19MH114830-01], and the [BICCN](https://biccn.org/).

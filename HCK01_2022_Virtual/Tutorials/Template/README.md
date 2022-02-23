@@ -9,7 +9,10 @@ Back to the [Tutorials List(../../README.md#tutorials-list)
 
 ## Tutorial Description
 
-<!-- Add a short paragraph describing the tutorial. -->
+<!-- Add a short paragraph describing the tutorial and duration. Recommended
+durations is 0.5 to 1.5 hours. -->
+
+Duration: X.X hours.
 
 ## Learning Outcomes
 
