@@ -62,6 +62,8 @@ This aim of this hackathon is to generate reproducible pipelines
 to register [fMOST mouse
 brains](https://knowledge.brain-map.org/data/K1YP17A0QIKJOMOAIS4/summary) to the [CCFv3](https://doi.org/10.1016/j.cell.2020.04.007).
 
+The fMOST brain volumes and CCFv3 atlas for the hackathon are available [on the BIL here](https://download.brainlib.org/hackathon/2022_GYBS/data/).
+
 In order to work with the neuroimage data generators, these pipelines will take a standardized input without assumptions of directory structures, filenames, etc and generate standardized outputs.
 The input is a single fMOST NIFTI brain volume. Expected outputs include: resampled brain, spatial transformation, and a manifest of outputs.
 The processing pipelines should be designed to executed in independently in parallel. The output should be a resampled image with the same size, orientation, and origin as the provided CCFv3.
