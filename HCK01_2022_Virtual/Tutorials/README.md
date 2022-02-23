@@ -1,7 +1,7 @@
 # How to create a new tutorial
 
 - Post questions about the tutorial idea and team on the [Get Your Brain Straight mailing list][mailing-list], our communication mechanism as of PW28.
-- When you are ready, add a new entry in the list of **Tutorials** by creating a new `README.md` file in subfolder in `Tutorials` folder, and copying contents of [tutorial description template][tutorial-description-template] file into it. Step-by-step instructions for this are:
+- When you are ready, add a new entry in the list of **Tutorials** by creating a new `README.md` file in a subfolder of the `Tutorials` folder, and copying contents of the [tutorial description template][tutorial-description-template] file into it. Step-by-step instructions for this are:
 
 1. Open [tutorial description template][tutorial-description-template] and copy its full content to the clipboard
 1. Go back to [Tutorials](https://github.com/InsightSoftwareConsortium/GetYourBrainStraight/tree/main/HCK01_2022_Virtual/Tutorials/) folder on GitHub

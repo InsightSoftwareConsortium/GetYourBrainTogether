@@ -9,7 +9,7 @@ Back to the [Tutorials List(../../README.md#tutorials-list)
 
 ## Tutorial Description
 
-<!-- Add a short paragraph describing the project. -->
+<!-- Add a short paragraph describing the tutorial. -->
 
 ## Learning Outcomes
 
