@@ -18,6 +18,12 @@ archives.
 **Birds-of-a-Feather (BOF) Breakout** sessions enable participants
 interested in collaborating to work on relevant topics.
 
+**Example ways to participate:**
+
+* [Contribute a registration pipeline resource](https://insightsoftwareconsortium.github.io/GetYourBrainStraight/HCK01_2022_Virtual/#reproducible-resource-challenge-fmost-mouse-brain-registration-to-ccfv3) that can be deploy on Brain Imaging Library (BIL) resources to register the challenge dataset.
+* [Give a tutorial](https://insightsoftwareconsortium.github.io/GetYourBrainStraight/HCK01_2022_Virtual/#tutorials) about your registration tools. A pre-recorded or live presentation, along with example code and recipes, can teach a data analyst how to run your tool and use the output on the challenge dataset and/or another open dataset.
+* [Come and learn](https://insightsoftwareconsortium.github.io/GetYourBrainStraight/HCK01_2022_Virtual/#birds-of-a-feather-breakouts) about registration from experts in the field.
+
 ## When, where, how much?
 
 - **Dates:** Monday, April 4th - Thursday, April 7th, 2022
