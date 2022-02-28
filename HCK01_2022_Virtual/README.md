@@ -34,7 +34,8 @@ interested in collaborating to work on relevant topics.
 
 - **Registration:** Fees: none, it's free! Use [this form](https://forms.gle/eJEf7yQq4UeSc1zF9) to register. Deadline: April 2nd.
 
-- **Communication:** to receive information about this and future events please join the [Hackathon Mailing List](https://groups.google.com/g/brain_straight_hackathon_announcements).
+- **Communication:** to receive information about this and future events please join the [Hackathon Mailing List](https://groups.google.com/g/brain_straight_hackathon_announcements). Join us on Monday, March 21st at 12PM Pacific Time
+[on this Zoom link](https://alleninstitute-org.zoom.us/j/97684575561?pwd=QVZSK3VEcXlEL3c2QW13b2c3U3pvdz09) for a hackathon pre-meeting meet-up for participants to solidify plans, meet each other, and and communicate with the organizers.
 
 ## How does it work?
 
@@ -44,6 +45,7 @@ interested in collaborating to work on relevant topics.
   cost.
 - Sign up for the [mailing list](https://groups.google.com/g/brain_straight_hackathon_announcements).
 - [Set up an account](https://www.brainimagelibrary.org/computevisual.html) at the Brain Image Library (BIL).
+- Attend the pre-hackathon planning meeting on Monday, March 21st, 12 PM Pacific Time: [Zoom Link](https://alleninstitute-org.zoom.us/j/97684575561?pwd=QVZSK3VEcXlEL3c2QW13b2c3U3pvdz09).
 - Optionally prepare a tutorial or organize a Birds-of-a-Feather (BoF) Breakout, described below.
 
 ### During the Hackathon
