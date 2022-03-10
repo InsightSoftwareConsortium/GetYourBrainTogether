@@ -1,5 +1,6 @@
 # How to create a new tutorial
 
+- Example tutorial topics include how to use an open source registration tool, how to access an open access brain imaging data and the data's properties, or how to use community compute and data archive resources.
 - Post any questions about the tutorial idea and team on the [Get Your Brain Straight mailing list][mailing-list], our communication mechanism.
 - When you are ready, add a new entry in the list of **Tutorials** by creating a new `README.md` file in a subfolder of the `Tutorials` folder, and copying contents of the [tutorial description template][tutorial-description-template] file into it. Step-by-step instructions for this are:
 
