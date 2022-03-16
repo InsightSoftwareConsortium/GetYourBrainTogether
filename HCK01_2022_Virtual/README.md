@@ -128,6 +128,10 @@ In future hackathons, we will focus on:
 Tutorial sessions share how to work with open source registration tools, open access datasets, or neurodata
 
 <a name="tutorials-list"/>
+    
+### Monday 4/4
+
+- Brain Imaging Library (BIL), 12 PM-2 PM ET, (Ivan Cao-Berg, Greg Hood, Alex Ropelewski) 
 
 <a name="how-to-add-a-tutorial"/>
 
