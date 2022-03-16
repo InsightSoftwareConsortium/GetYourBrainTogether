@@ -131,7 +131,8 @@ Tutorial sessions share how to work with open source registration tools, open ac
     
 ### Monday 4/4
 
-- Brain Imaging Library (BIL), 12 PM-2 PM ET, (Ivan Cao-Berg, Greg Hood, Alex Ropelewski) 
+- Brain Imaging Library (BIL), 12 PM-2 PM ET, (Ivan Cao-Berg, Greg Hood, Alex Ropelewski)
+- Get Your Brain Pipelined, 2 PM ET, (Jeff Duda, Min Chen, Jim Gee)
 
 <a name="how-to-add-a-tutorial"/>
 
