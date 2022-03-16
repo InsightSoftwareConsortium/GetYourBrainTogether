@@ -146,6 +146,10 @@ During the BoF, find the leader by clicking on their name in the [Image.sc Islan
 If notes are taken during the BoF, please add them to the [BoF breakouts
 folder](./BoFBreakouts). We recommend [HackMD](https://hackmd.io/) for collaborative,
 well-formatted notetaking.
+    
+## Code of Conduct
+    
+Participants and contributors are expected to adhere to the [ITK Code of Conduct](https://github.com/InsightSoftwareConsortium/ITK/blob/master/CODE_OF_CONDUCT.md).
 
 ## Acknowledgements
 
