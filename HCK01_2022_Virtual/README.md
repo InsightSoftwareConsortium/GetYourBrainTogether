@@ -1,4 +1,4 @@
-<img alt="Get Your Brain Straight HCK01" src="banner.png">
+<img alt="Get Your Brain Straight HCK01" src="logos/banner.png">
 
 # Welcome to the web page for the 1st Get Your Brain Straight Hackathon !
 
@@ -154,3 +154,8 @@ Participants and contributors are expected to adhere to the [ITK Code of Conduct
 ## Acknowledgements
 
 This hackathon is supported by the National Institute of Mental Health (NIMH) of the National Institutes of Health (NIH) under the [BRAIN Initiative](https://braininitiative.nih.gov/) award numbers [1RF1MH126732](https://projectreporter.nih.gov/project_info_description.cfm?aid=10259930), [1U19MH114830-01](https://projectreporter.nih.gov/project_info_description.cfm?aid=9416007), [5R24MH114793-02](https://reporter.nih.gov/project-details/9567623), [1U24MH114827-01](https://reporter.nih.gov/project-details/9415946) and the [BICCN](https://biccn.org/).
+
+Additional sponsors include:
+
+[Translucence Biosystems](https://www.translucencebio.com/)
+[![Translucence Biosystems](logos/translucence.png)](https://www.translucencebio.com/)
