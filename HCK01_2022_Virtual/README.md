@@ -158,4 +158,5 @@ This hackathon is supported by the National Institute of Mental Health (NIMH) of
 Additional sponsors include:
 
 [Translucence Biosystems](https://www.translucencebio.com/)
+
 [![Translucence Biosystems](logos/translucence.png)](https://www.translucencebio.com/)
