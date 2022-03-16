@@ -135,6 +135,10 @@ Tutorial sessions share how to work with open source registration tools, open ac
 - Get Your Brain Pipelined, 2 PM ET, (Jeff Duda, Min Chen, Jim Gee)
 - About the Challenge Dataset, 2:30 PM ET, (Lydia Ng)
 
+### Tuesday 4/5
+    
+- Metadata Preservation for Image Registration, 1-2 PM ET, (Matt McCormick, Lydia Ng)
+
 <a name="how-to-add-a-tutorial"/>
 
 [How to add a new tutorial?](./Tutorials/README.md)
