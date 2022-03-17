@@ -176,3 +176,7 @@ Additional infrastructure support provided by:
 [NumFOCUS](https://numfocus.org/)
 
 [![NumFOCUS](logos/numfocus.png)](https://numfocus.org/)
+
+[image.sc](https://https://image.sc/)
+
+[![Image.SC](logos/imagesc.png)](https://image.sc/)
