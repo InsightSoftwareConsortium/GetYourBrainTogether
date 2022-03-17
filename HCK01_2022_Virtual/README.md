@@ -128,7 +128,7 @@ In future hackathons, we will focus on:
 Tutorial sessions share how to work with open source registration tools, open access datasets, or neurodata
 
 <a name="tutorials-list"/>
-    
+
 ### Monday 4/4
 
 - Brain Imaging Library (BIL), 12 PM-2 PM ET, (Ivan Cao-Berg, Greg Hood, Alex Ropelewski)
@@ -136,8 +136,12 @@ Tutorial sessions share how to work with open source registration tools, open ac
 - About the Challenge Dataset, 2:30 PM ET, (Lydia Ng)
 
 ### Tuesday 4/5
-    
+
 - Metadata Preservation for Image Registration, 1-2 PM ET, (Matt McCormick, Lydia Ng)
+
+### Wednesday 4/6
+
+- [OME-NGFF: Towards a community standard image file format for sharing big image data in the cloud](https://globalbioimaging.org/international-training-courses/ome-ngff-workshop-2022), 8-11 AM ET, (Christian Tischer, Josh Moore) - *Sister event -- requires additional registration*
 
 <a name="how-to-add-a-tutorial"/>
 
