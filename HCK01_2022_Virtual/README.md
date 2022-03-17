@@ -183,4 +183,4 @@ Additional infrastructure support provided by:
 
 [image.sc](https://https://image.sc/)
 
-[![Image.SC](logos/imagesc.png)](https://image.sc/)
+[<img alt="image.sc" width="250" src="logos/imagesc.png">](https://image.sc/)
