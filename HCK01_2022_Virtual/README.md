@@ -138,10 +138,13 @@ Tutorial sessions share how to work with open source registration tools, open ac
 ### Tuesday 4/5
 
 - Metadata Preservation for Image Registration, 1-2 PM ET, (Matt McCormick, Lydia Ng)
+- [Image Registration with a Maximization Minorization (MM) Optimization
+  Algorithm](./Tutorials/MMOptimizationAlgorithm.md), 12:30-1 PM ET (Daniel Tward, Gary Zhou, Ken Langea)
 
 ### Wednesday 4/6
 
 - [OME-NGFF: Towards a community standard image file format for sharing big image data in the cloud](https://globalbioimaging.org/international-training-courses/ome-ngff-workshop-2022), 8-11 AM ET, (Christian Tischer, Josh Moore) - *Sister event -- requires additional registration*
+- [Mapping Micro to Macro Scale Anatomy with LDDMM](./Tutorials/MappingMicroToMacroScaleAnatomyWithLDDMM.md), 12-1 PM ET, (Kaitlin Stouffer, Bryson Gray, Michael Miller, Daniel Tward)
 
 <a name="how-to-add-a-tutorial"/>
 
