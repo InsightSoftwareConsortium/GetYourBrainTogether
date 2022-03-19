@@ -43,7 +43,7 @@ notebooks, and provide links to any materials. -->
 
 <!-- Provide links to related publications and software repositories here. -->
 - [LDDMM Reference](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.157.6086&rep=rep1&type=pdf)
-- [Projective LDDMM Reference](https://example.com)
+- [Projective LDDMM Reference](https://www.biorxiv.org/content/10.1101/2022.03.16.484623v1)
 - [Projective LDDMM Code](https://github.com/kstouff4/projective-lddmm)
 - [EM LDDMM Reference](https://www.frontiersin.org/articles/10.3389/fnins.2020.00052/full)
 - [EM LDDMM Code](https://github.com/twardlab/emlddmm)
