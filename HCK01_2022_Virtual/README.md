@@ -134,6 +134,7 @@ Tutorial sessions share how to work with open source registration tools, open ac
 - Brain Imaging Library (BIL), 12 PM-2 PM ET, (Ivan Cao-Berg, Greg Hood, Alex Ropelewski)
 - Get Your Brain Pipelined, 2 PM ET, (Jeff Duda, Min Chen, Jim Gee)
 - About the Challenge Dataset, 2:30 PM ET, (Lydia Ng)
+- [Registering Cleared Tissues](./Tutorials/MappingLightSheet.md), 4 PM ET, (Ricardo Azevedo)
 
 ### Tuesday 4/5
 
