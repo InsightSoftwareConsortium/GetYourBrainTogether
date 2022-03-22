@@ -9,19 +9,19 @@ add_executable(ResampleAScalarImage Code.cxx)
 target_link_libraries(ResampleAScalarImage ${ITK_LIBRARIES})
 
 install(TARGETS ResampleAScalarImage
-  DESTINATION bin/ITKSphinxExamples/Filtering/ImageGrid
+  DESTINATION bin
   COMPONENT Runtime
   )
 
 install(FILES Code.cxx CMakeLists.txt Code.py
-  DESTINATION share/ITKSphinxExamples/Code/Filtering/ImageGrid/ResampleAScalarImage
+  DESTINATION share/ResampleAScalarImage
   COMPONENT Code
   )
 
 enable_testing()
 add_test(NAME ResampleAScalarImageTest
-  COMMAND ${CMAKE_RUNTIME_OUTPUT_DIRECTORY}/ResampleAScalarImage
-    ${CMAKE_CURRENT_BINARY_DIR}/Gourds.png
+  COMMAND ResampleAScalarImage
+    ${CMAKE_CURRENT_LIST_DIR}/Gourds.png
     Output.png
     160
     120
@@ -29,8 +29,8 @@ add_test(NAME ResampleAScalarImageTest
 
 if(ITK_WRAP_PYTHON)
   add_test(NAME ResampleAScalarImageTestPython
-    COMMAND ${PYTHON_EXECUTABLE} ${CMAKE_CURRENT_SOURCE_DIR}/Code.py
-      ${CMAKE_CURRENT_BINARY_DIR}/Gourds.png
+    COMMAND ${PYTHON_EXECUTABLE} ${CMAKE_CURRENT_LIST_DIR}/Code.py
+      ${CMAKE_CURRENT_LIST_DIR}/Gourds.png
       OutputPython.png
       160
       120
