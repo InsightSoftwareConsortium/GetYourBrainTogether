@@ -138,7 +138,7 @@ Tutorial sessions share how to work with open source registration tools, open ac
 
 ### Tuesday 4/5
 
-- Metadata Preservation for Image Registration, 1-2 PM ET, (Matt McCormick, Lydia Ng)
+- [Metadata Preservation for Image Registration](./Tutorials/MetadataPreservation/MetadataPreservation.md), 1-2 PM ET, (Matt McCormick, Lydia Ng)
 - [Image Registration with a Maximization Minorization (MM) Optimization
   Algorithm](./Tutorials/MMOptimizationAlgorithm.md), 12:30-1 PM ET (Daniel Tward, Gary Zhou, Ken Langea)
 
