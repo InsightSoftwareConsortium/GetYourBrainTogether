@@ -6,7 +6,7 @@ find_package(ITK REQUIRED)
 include(${ITK_USE_FILE})
 
 add_executable(ResampleAScalarImage Code.cxx)
-target_link_libraries(ResampleAScalarImage ${ITK_LIBRARIES})
+target_link_libraries(ResampleAScalarImage PUBLIC ${ITK_LIBRARIES})
 
 install(TARGETS ResampleAScalarImage
   DESTINATION bin
