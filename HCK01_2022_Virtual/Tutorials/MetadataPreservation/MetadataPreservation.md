@@ -1,4 +1,4 @@
-Back to the [Tutorials List(../../README.md#tutorials-list)
+Back to the [Tutorials List](../../README.md#tutorials-list)
 
 # Metadata Preservation for Brain Registration
 
@@ -6,6 +6,7 @@ Back to the [Tutorials List(../../README.md#tutorials-list)
 
 - Matt McCormick (Kitware)
 - Lydia Ng (Allen Institute for Brain Science)
+- Dženan Zukić (Kitware)
 
 ## Tutorial Description
 
