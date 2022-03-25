@@ -28,14 +28,12 @@ interested in collaborating to work on relevant topics.
 
 - **Dates:** Monday, April 4th - Thursday, April 7th, 2022
 
-- **Location:** The first hackathon will be online, held on [Google
-  Meet](https://meet.google.com/) videoconferencing, [Image.sc Island Gather.Town](https://j.mp/imagesc-island) virtual space, and
+- **Location:** The first hackathon will be online, held on [Zoom](https://alleninstitute-org.zoom.us/j/96111568520?pwd=c2U2UXlFWmdHWVhjWWNUL3V2OWJQZz09) videoconferencing, [Image.sc Island Gather.Town](https://j.mp/imagesc-island) virtual space, and
   [Image.sc Zulip Chat](https://imagesc.zulipchat.com/).
 
 - **Registration:** Fees: none, it's free! Use [this form](https://forms.gle/eJEf7yQq4UeSc1zF9) to register. Deadline: April 2nd.
 
-- **Communication:** to receive information about this and future events please join the [Hackathon Mailing List](https://groups.google.com/g/brain_straight_hackathon_announcements). Join us on Monday, March 21st at 12PM Pacific Time
-[on this Zoom link](https://alleninstitute-org.zoom.us/j/97684575561?pwd=QVZSK3VEcXlEL3c2QW13b2c3U3pvdz09) for a hackathon pre-meeting meet-up for participants to solidify plans, meet each other, and and communicate with the organizers.
+- **Communication:** to receive information about this and future events please join the [Hackathon Mailing List](https://groups.google.com/g/brain_straight_hackathon_announcements).
 
 ## How does it work?
 
