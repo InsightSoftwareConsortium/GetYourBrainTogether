@@ -43,7 +43,6 @@ interested in collaborating to work on relevant topics.
   cost.
 - Sign up for the [mailing list](https://groups.google.com/g/brain_straight_hackathon_announcements).
 - [Set up an account](https://www.brainimagelibrary.org/computevisual.html) at the Brain Image Library (BIL).
-- Attend the pre-hackathon planning meeting on Monday, March 21st, 12 PM Pacific Time: [Zoom Link](https://alleninstitute-org.zoom.us/j/97684575561?pwd=QVZSK3VEcXlEL3c2QW13b2c3U3pvdz09).
 - Optionally prepare a tutorial or organize a Birds-of-a-Feather (BoF) Breakout, described below.
 
 ### During the Hackathon
@@ -82,6 +81,7 @@ https://github.com/NA-MIC/ProjectWeek/blob/b4295bddc01542ebb471d57169954b2770fd8
 </script>
 
 [How to add this calendar to your own?](../common/Calendar.md)
+
 ## Reproducible Resource Challenge: fMOST Mouse Brain Registration to CCFv3
 
 This aim of this hackathon is to generate reproducible pipelines
