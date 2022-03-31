@@ -29,6 +29,7 @@ Duration: 1.0 hours.
 - [Presentation on how metadata was preserved in the hackathon fMOST dataset]
 - [ITK image grid: image's spatial metadata](https://mybinder.org/v2/gh/InsightSoftwareConsortium/GetYourBrainStraight/MetadataPreservation?filepath=HCK01_2022_Virtual/Tutorials/MetadataPreservation/ITK_image_grid.ipynb)
 - [OrientImageFilter for consistent anatomical orientation](https://mybinder.org/v2/gh/InsightSoftwareConsortium/GetYourBrainStraight/MetadataPreservation?filepath=HCK01_2022_Virtual/Tutorials/MetadataPreservation/Orient_filter.ipynb)
+- [ITK-NiBabel spatial metadata to 4x4 affine matrix and back](https://mybinder.org/v2/gh/InsightSoftwareConsortium/GetYourBrainStraight/MetadataPreservation?filepath=HCK01_2022_Virtual/Tutorials/MetadataPreservation/LPS-RAS-4x4.ipynb)
 
 ## Background and References
 
