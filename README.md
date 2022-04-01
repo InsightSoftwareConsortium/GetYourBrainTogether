@@ -20,7 +20,7 @@ discovery of the structure and function of brains.
 
 #### What is the history of the hackathons?
 
-This hackathon is inspired by and based on the successful [NeurodataWithoutBorders (NWB)](https://neurodatawithoutborders.github.io/nwb_hackathons/) and [NA-MIC Project Week](https://projectweek.na-mic.org/) hackathon.
+This hackathon is inspired by and based on the successful [NeurodataWithoutBorders (NWB)](https://neurodatawithoutborders.github.io/nwb_hackathons/) and [NA-MIC Project Week](https://projectweek.na-mic.org/) hackathons.
 
 ---
 
