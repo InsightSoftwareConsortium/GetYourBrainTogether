@@ -132,14 +132,13 @@ Tutorial sessions share how to work with open source registration tools, open ac
 - Brain Imaging Library (BIL), 12 PM-2 PM ET, (Ivan Cao-Berg, Greg Hood, Alex Ropelewski)
 - Get Your Brain Pipelined, 2 PM ET, (Jeff Duda, Min Chen, Jim Gee)
 - About the Challenge Dataset, 3:30 PM ET, (Lydia Ng)
-- [Registering Cleared Tissues](./Tutorials/MappingLightSheetData), 4 PM ET, (Ricardo Azevedo)
+- [Registering Cleared Tissues](./Tutorials/MappingLightSheetData.md), 4 PM ET, (Ricardo Azevedo)
 
 ### Tuesday 4/5
 
 - [ITKElastix Image Registration Tutorial](./Tutorials/ITKElastixTutorial.md), 10:30-11 AM ET (Viktor van der Valk, Matt McCormick)
 - [Metadata Preservation for Image Registration](./Tutorials/MetadataPreservation/MetadataPreservation.md), 1-2 PM ET, (Matt McCormick, Lydia Ng, Dženan Zukić)
-- [Image Registration with a Maximization Minorization (MM) Optimization
-  Algorithm](./Tutorials/MMOptimizationAlgorithm.md), 12:30-1 PM ET (Daniel Tward, Gary Zhou, Ken Langea)
+- [Image Registration with a Maximization Minorization (MM) Optimization Algorithm](./Tutorials/MMOptimizationAlgorithm.md), 12:30-1 PM ET (Daniel Tward, Gary Zhou, Ken Langea)
 
 ### Wednesday 4/6
 
