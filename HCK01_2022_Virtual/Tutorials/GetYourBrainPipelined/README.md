@@ -20,9 +20,8 @@ Duration: X.0.5 hours.
 
 <!-- Describe here what you would like participants to learn by the end of the tutorial. -->
 
-1. Outcome 1. Describe **what you want them to learn** in 1-2 sentences.
-2. Outcome 2. ...
-3. Outcome 3. ...
+1. Outcome 1. How to build a singularity container on the BIL system
+2. Outcome 2. How to incorporate a container into a workflow
 
 ## Approach and Materials
 
