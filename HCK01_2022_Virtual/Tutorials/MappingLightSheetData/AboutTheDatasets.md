@@ -83,7 +83,7 @@ for f in files:
     image = dataset['0']
     # copy the image to a numpy array 
     array = image[:]
-    # the data has 5 dimensions (TCZYX). Lets squeeze out T and C since the have length 1 and 
+    # the data has 5 dimensions (TCZYX). Lets squeeze out T and C since they have length 1 and 
     # just get a 3d Z,Y,X array.
     array = array.squeeze()
     
