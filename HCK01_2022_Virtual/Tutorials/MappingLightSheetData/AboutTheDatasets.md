@@ -1,4 +1,4 @@
-#### Information on Light-sheet datasets
+## Information on Light-sheet datasets
 
 ### Directory Structure
 

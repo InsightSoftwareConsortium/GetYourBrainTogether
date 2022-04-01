@@ -20,7 +20,7 @@ interested in collaborating to work on relevant topics.
 
 **Example ways to participate:**
 
-* [Contribute a registration pipeline resource](https://insightsoftwareconsortium.github.io/GetYourBrainStraight/HCK01_2022_Virtual/#reproducible-resource-challenge-fmost-mouse-brain-registration-to-ccfv3) that can be deployed on Brain Imaging Library (BIL) resources to register the challenge dataset.
+* [Contribute a registration pipeline resource](https://insightsoftwareconsortium.github.io/GetYourBrainStraight/HCK01_2022_Virtual/#reproducible-resource-challenge) that can be deployed on Brain Imaging Library (BIL) resources to register the challenge dataset.
 * [Give a tutorial](https://insightsoftwareconsortium.github.io/GetYourBrainStraight/HCK01_2022_Virtual/#tutorials) about your registration tools. A pre-recorded or live presentation, along with example code and recipes, can teach a data analyst how to run your tool and use the output on the challenge dataset and/or another open dataset.
 * [Come and learn](https://insightsoftwareconsortium.github.io/GetYourBrainStraight/HCK01_2022_Virtual/#birds-of-a-feather-breakouts) about registration from experts in the field.
 
@@ -51,7 +51,7 @@ The week will start 8 AM Pacific Time, 11 AM Eastern Time, Monday, April 4th
 in an introductory all-hands videoconference.
 
 Following the introduction, participate in the [Reproducible Resource
-Challenge](#reproducible-resource-challenge-fmost-mouse-brain-registration-to-ccfv3), join the [tutorials](#tutorials), and participate [BoF breakouts](#birds-of-a-feather-breakouts).
+Challenge](#reproducible-resource-challenge), join the [tutorials](#tutorials), and participate [BoF breakouts](#birds-of-a-feather-breakouts).
 
 On Thursday, 11 AM Pacific Time, 2 PM Eastern Time, participants will delegate one member to present their registration processing pipelines, results, and discuss lessons learned.
 
@@ -82,33 +82,36 @@ https://github.com/NA-MIC/ProjectWeek/blob/b4295bddc01542ebb471d57169954b2770fd8
 
 [How to add this calendar to your own?](../common/Calendar.md)
 
-## Reproducible Resource Challenge: fMOST Mouse Brain Registration to CCFv3
+## Reproducible Resource Challenge
 
-This aim of this hackathon is to generate reproducible pipelines
-to register [fMOST mouse
-brains](https://knowledge.brain-map.org/data/K1YP17A0QIKJOMOAIS4/summary) to the [CCFv3](https://doi.org/10.1016/j.cell.2020.04.007).
+This aim of this hackathon is to generate reproducible pipelines to register whole-brain microscopy
+image data to the [CCFv3](https://doi.org/10.1016/j.cell.2020.04.007). Two datasets are provided,
+each with their unique quirks. You may work on either dataset during the hackathon.
 
-The fMOST brain volumes and CCFv3 atlas for the hackathon are available [on the BIL here](https://download.brainlib.org/hackathon/2022_GYBS/data/).
-
-In order to work with the neuroimage data generators, these pipelines will take a standardized input without assumptions of directory structures, filenames, etc and generate standardized outputs.
-The input is a single fMOST NIFTI brain volume. Expected outputs include: resampled brain, spatial transformation, and a manifest of outputs.
-The processing pipelines should be designed to executed in independently in parallel. The output should be a resampled image with the same size, orientation, and origin as the provided CCFv3.
-The output should include an affine transformation file and a deformation field transformation file to transform SWC and/or annotation files from the subject fMOST image space into the CCFv3 space.
+In order to work with the neuroimage data generators, these pipelines will take a standardized input
+without assumptions of directory structures, filenames, etc and generate standardized outputs.
+Expected outputs include: resampled brain, spatial transformation, and a manifest of outputs. The
+processing pipelines should be designed to executed in independently in parallel. The output should
+be a resampled image with the same size, orientation, and origin as the provided CCFv3. The output
+should include an affine transformation file, and a deformation field transformation file to
+transform SWC and/or annotation files from the challenge dataset image space into the CCFv3 space.
 
 Criteria for inclusion in a summary paper:
 
 - [ ] Open source with an [OSI-approved license](https://opensource.org/licenses)
-  - The code can be executed in the future
-  - Researchers can understand what the code is doing
-  - Researchers can extend or fix as needed
+    - The code can be executed in the future
+    - Researchers can understand what the code is doing
+    - Researchers can extend or fix as needed
 - Works on open standard data formats used by data providers and consumers
-  - [ ] NIFTI images
+    - [ ] NIFTI images
 - Deployable
-  - Can be executed across many environments
-  - [ ] Provided in a published [singularity](https://sylabs.io/guides/2.6/user-guide/introduction.html) image
+    - Can be executed across many environments
+    - [ ] Provided in a
+      published [singularity](https://sylabs.io/guides/2.6/user-guide/introduction.html) image
 - [ ] Can be executed by an independent analyst on the BIL
 
-The primary goals for this hackathon is to ensure that everyone's code can run on the dataset provided and can be replicated.
+The primary goals for this hackathon is to ensure that everyone's code can run on the dataset
+provided and can be replicated.
 
 In future hackathons, we will focus on:
 
@@ -121,6 +124,27 @@ In future hackathons, we will focus on:
 
 [How to add a new reproducible registration processing pipeline?](./ReproducibleResource/README.md)
 
+### Challenge Dataset 1: fMOST Mouse Brain Registration to CCFv3
+
+The fMOST brain volumes and CCFv3 atlas for the hackathon are
+available [on the BIL here](https://download.brainlib.org/hackathon/2022_GYBS/data/). The input is a
+single fMOST NIFTI brain volume.
+
+### Challenge Dataset 2: Light-Sheet Imaged Mouse Brain Registration to CCFv3
+
+The Light-sheet imaged brain volumes are available
+[on the BIL here](https://download.brainlib.org/hackathon/2022_GYBS/lightsheet/). For this challenge
+set, the data and atlas is provided for a single brain hemisphere (for size considerations and to
+mimic most real world experiments). Multiple data replicates are provided. We provide one
+dataset `subject0.zarr` in full imaging resolution for those seeking a bigger challenge. As a
+convenience we provide the challenge sets at approximately atlas size as
+Nifti(`subjectN_25.nii.gz`)
+or [OME-NGFF](`subjectN_25.nii.gz`) (`subjectN_25.zarr`). Participants may use either format but
+OME-NGFF is preferred because it allows more efficient memory usage for larger datasets.
+
+Details on working with the data can be found 
+[here](./Tutorials/MappingLightSheetData/AboutTheDatasets.md)
+
 ## Tutorials
 
 Tutorial sessions share how to work with open source registration tools, open access datasets, or neurodata
@@ -132,7 +156,7 @@ Tutorial sessions share how to work with open source registration tools, open ac
 - Brain Imaging Library (BIL), 12 PM-2 PM ET, (Ivan Cao-Berg, Greg Hood, Alex Ropelewski)
 - Get Your Brain Pipelined, 2 PM ET, (Jeff Duda, Min Chen, Jim Gee)
 - About the Challenge Dataset, 3:30 PM ET, (Lydia Ng)
-- [Registering Cleared Tissues](./Tutorials/MappingLightSheetData.md), 4 PM ET, (Ricardo Azevedo)
+- [Registering Cleared Tissues](./Tutorials/MappingLightSheetData/MappingLightSheet.md), 4 PM ET, (Ricardo Azevedo)
 
 ### Tuesday 4/5
 
