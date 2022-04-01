@@ -14,7 +14,7 @@ Back to the [Tutorials List](../../README.md#tutorials-list)
 durations is 0.5 to 1.5 hours. -->
 This is a brief introduction on how to build singularity containers and workflows on the BIL system.
 
-Duration: X.0.5 hours.
+Duration: 0.5 hours.
 
 ## Learning Outcomes
 
