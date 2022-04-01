@@ -1,6 +1,6 @@
 Back to the [Tutorials List](../../README.md#tutorials-list)
 
-# Write the full tutorial title here
+# Get Your Brain Pipelined
 
 ## Instructors
 
