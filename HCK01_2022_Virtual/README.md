@@ -28,14 +28,12 @@ interested in collaborating to work on relevant topics.
 
 - **Dates:** Monday, April 4th - Thursday, April 7th, 2022
 
-- **Location:** The first hackathon will be online, held on [Google
-  Meet](https://meet.google.com/) videoconferencing, [Image.sc Island Gather.Town](https://j.mp/imagesc-island) virtual space, and
+- **Location:** The first hackathon will be online, held on [Zoom](https://alleninstitute-org.zoom.us/j/96111568520?pwd=c2U2UXlFWmdHWVhjWWNUL3V2OWJQZz09) videoconferencing, [Image.sc Island Gather.Town](https://j.mp/imagesc-island) virtual space, and
   [Image.sc Zulip Chat](https://imagesc.zulipchat.com/).
 
 - **Registration:** Fees: none, it's free! Use [this form](https://forms.gle/eJEf7yQq4UeSc1zF9) to register. Deadline: April 2nd.
 
-- **Communication:** to receive information about this and future events please join the [Hackathon Mailing List](https://groups.google.com/g/brain_straight_hackathon_announcements). Join us on Monday, March 21st at 12PM Pacific Time
-[on this Zoom link](https://alleninstitute-org.zoom.us/j/97684575561?pwd=QVZSK3VEcXlEL3c2QW13b2c3U3pvdz09) for a hackathon pre-meeting meet-up for participants to solidify plans, meet each other, and and communicate with the organizers.
+- **Communication:** to receive information about this and future events please join the [Hackathon Mailing List](https://groups.google.com/g/brain_straight_hackathon_announcements).
 
 ## How does it work?
 
@@ -45,7 +43,6 @@ interested in collaborating to work on relevant topics.
   cost.
 - Sign up for the [mailing list](https://groups.google.com/g/brain_straight_hackathon_announcements).
 - [Set up an account](https://www.brainimagelibrary.org/computevisual.html) at the Brain Image Library (BIL).
-- Attend the pre-hackathon planning meeting on Monday, March 21st, 12 PM Pacific Time: [Zoom Link](https://alleninstitute-org.zoom.us/j/97684575561?pwd=QVZSK3VEcXlEL3c2QW13b2c3U3pvdz09).
 - Optionally prepare a tutorial or organize a Birds-of-a-Feather (BoF) Breakout, described below.
 
 ### During the Hackathon
@@ -84,6 +81,7 @@ https://github.com/NA-MIC/ProjectWeek/blob/b4295bddc01542ebb471d57169954b2770fd8
 </script>
 
 [How to add this calendar to your own?](../common/Calendar.md)
+
 ## Reproducible Resource Challenge: fMOST Mouse Brain Registration to CCFv3
 
 This aim of this hackathon is to generate reproducible pipelines
@@ -133,15 +131,19 @@ Tutorial sessions share how to work with open source registration tools, open ac
 
 - Brain Imaging Library (BIL), 12 PM-2 PM ET, (Ivan Cao-Berg, Greg Hood, Alex Ropelewski)
 - Get Your Brain Pipelined, 2 PM ET, (Jeff Duda, Min Chen, Jim Gee)
-- About the Challenge Dataset, 2:30 PM ET, (Lydia Ng)
+- About the Challenge Dataset, 3:30 PM ET, (Lydia Ng)
+- [Registering Cleared Tissues](./Tutorials/MappingLightSheet.md), 4 PM ET, (Ricardo Azevedo)
 
 ### Tuesday 4/5
 
-- Metadata Preservation for Image Registration, 1-2 PM ET, (Matt McCormick, Lydia Ng)
+- [Metadata Preservation for Image Registration](./Tutorials/MetadataPreservation/MetadataPreservation.md), 1-2 PM ET, (Matt McCormick, Lydia Ng, Dženan Zukić)
+- [Image Registration with a Maximization Minorization (MM) Optimization
+  Algorithm](./Tutorials/MMOptimizationAlgorithm.md), 12:30-1 PM ET (Daniel Tward, Gary Zhou, Ken Langea)
 
 ### Wednesday 4/6
 
 - [OME-NGFF: Towards a community standard image file format for sharing big image data in the cloud](https://globalbioimaging.org/international-training-courses/ome-ngff-workshop-2022), 8-11 AM ET, (Christian Tischer, Josh Moore) - *Sister event -- requires additional registration*
+- [Mapping Micro to Macro Scale Anatomy with LDDMM](./Tutorials/MappingMicroToMacroScaleAnatomyWithLDDMM.md), 12-1 PM ET, (Kaitlin Stouffer, Bryson Gray, Michael Miller, Daniel Tward)
 
 <a name="how-to-add-a-tutorial"/>
 
@@ -168,19 +170,3 @@ Participants and contributors are expected to adhere to the [ITK Code of Conduct
 ## Acknowledgements
 
 This hackathon is supported by the National Institute of Mental Health (NIMH) of the National Institutes of Health (NIH) under the [BRAIN Initiative](https://braininitiative.nih.gov/) award numbers [1RF1MH126732](https://projectreporter.nih.gov/project_info_description.cfm?aid=10259930), [1U19MH114830-01](https://projectreporter.nih.gov/project_info_description.cfm?aid=9416007), [5R24MH114793-02](https://reporter.nih.gov/project-details/9567623), [1U24MH114827-01](https://reporter.nih.gov/project-details/9415946) and the [BICCN](https://biccn.org/).
-
-Additional fiscal sponsors include:
-
-[Translucence Biosystems](https://www.translucencebio.com/)
-
-[![Translucence Biosystems](logos/translucence.png)](https://www.translucencebio.com/)
-
-Additional infrastructure support provided by:
-
-[NumFOCUS](https://numfocus.org/)
-
-[![NumFOCUS](logos/numfocus.png)](https://numfocus.org/)
-
-[image.sc](https://https://image.sc/)
-
-[<img alt="image.sc" width="250" src="logos/imagesc.png">](https://image.sc/)
