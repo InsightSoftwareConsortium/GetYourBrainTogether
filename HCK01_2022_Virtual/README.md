@@ -127,13 +127,13 @@ In future hackathons, we will focus on:
 ### Challenge Dataset 1: fMOST Mouse Brain Registration to CCFv3
 
 The fMOST brain volumes and CCFv3 atlas for the hackathon are
-available [on the BIL here](https://download.brainlib.org/hackathon/2022_GYBS/data/). The input is a
+available [on the BIL here](https://download.brainlib.org/hackathon/2022_GYBS/input/fMOST/). The input is a
 single fMOST NIFTI brain volume.
 
 ### Challenge Dataset 2: Light-Sheet Imaged Mouse Brain Registration to CCFv3
 
 The Light-sheet imaged brain volumes are available
-[on the BIL here](https://download.brainlib.org/hackathon/2022_GYBS/lightsheet/). For this challenge
+[on the BIL here](https://download.brainlib.org/hackathon/2022_GYBS/input/lightsheet/). For this challenge
 set, the data and atlas is provided for a single brain hemisphere (for size considerations and to
 mimic most real world experiments). Multiple data replicates are provided. We provide one
 dataset `subject0.zarr` in full imaging resolution for those seeking a bigger challenge. As a
