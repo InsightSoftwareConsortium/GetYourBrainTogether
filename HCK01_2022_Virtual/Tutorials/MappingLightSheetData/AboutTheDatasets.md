@@ -46,7 +46,7 @@ new = img.slicer[0]
 nib.save(new, ATLAS_SINK)
 ```
 
-####Example reading the challenge dataset nifti files in bulk:
+#### Example reading the challenge dataset nifti files in bulk:
 
 ```python
 from pathlib import Path
@@ -64,7 +64,7 @@ for f in files:
     new = img.slicer[0]
 ```
 
-####Example reading the challenge dataset NGFF files in bulk:
+#### Example reading the challenge dataset NGFF files in bulk:
 
 ```python
 from pathlib import Path
