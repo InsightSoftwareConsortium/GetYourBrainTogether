@@ -1,4 +1,4 @@
-Back to the [Tutorials List](../README.md#tutorials-list)
+Back to the [Tutorials List](../../README.md#tutorials-list)
 
 # Registering Cleared Tissues
 
