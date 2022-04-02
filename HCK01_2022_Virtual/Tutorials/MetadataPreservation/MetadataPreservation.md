@@ -29,6 +29,7 @@ Duration: 1.0 hours.
 - [ITK image grid: image's spatial metadata](https://mybinder.org/v2/gh/InsightSoftwareConsortium/GetYourBrainStraight/main?filepath=HCK01_2022_Virtual/Tutorials/MetadataPreservation/ITK_image_grid.ipynb)
 - [OrientImageFilter for consistent anatomical orientation](https://mybinder.org/v2/gh/InsightSoftwareConsortium/GetYourBrainStraight/main?filepath=HCK01_2022_Virtual/Tutorials/MetadataPreservation/Orient_filter.ipynb)
 - [ITK-NiBabel spatial metadata to 4x4 affine matrix and back](https://mybinder.org/v2/gh/InsightSoftwareConsortium/GetYourBrainStraight/main?filepath=HCK01_2022_Virtual/Tutorials/MetadataPreservation/LPS-RAS-4x4.ipynb)
+- [C++ example](./AccessSpatialMetadata/Code.cxx) with corresponding [Python example](./AccessSpatialMetadata/Code.py).
 
 ## Background and References
 
