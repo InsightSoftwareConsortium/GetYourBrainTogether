@@ -34,3 +34,31 @@ Duration: 1.0 hours.
 ## Background and References
 
 - The [ITK Software Guide](https://itk.org/ItkSoftwareGuide.pdf)
+
+## Run the Tutorial
+
+There are a few ways to run these tutorials.
+
+### On the Web, with Binder
+
+Just click on the links above, and wait a few minutes until a Jupyter server starts.
+
+### Locally, with Python from Python.org or a System Python
+
+First, install [Python](https://www.python.org/downloads/release/python-3912/),
+if not already available.
+
+Next, install the required dependencies::
+```bash
+   python -m pip install jupyter matplotlib numpy
+   python -m pip install --upgrade --pre itk
+```
+Then, clone the repository::
+```bash
+  git clone https://github.com/InsightSoftwareConsortium/GetYourBrainStraight.git
+  cd GetYourBrainStraight/HCK01_2022_Virtual/Tutorials/MetadataPreservation
+```
+And start Jupyter::
+```bash
+  python -m jupyter notebook
+```
