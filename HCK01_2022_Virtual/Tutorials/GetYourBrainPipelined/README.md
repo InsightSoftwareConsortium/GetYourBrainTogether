@@ -29,8 +29,7 @@ Duration: 0.5 hours.
 notebooks, and provide links to any materials. -->
 
 - To build containers you will need a free account at [SyLabs.io](https://cloud.sylabs.io/)
-- ...
-- ...
+- If you prefer to develop in Docker on your own machine, you will need a [Dockerhub](https://hub.docker.com/) account
 
 ## Background and References
 
