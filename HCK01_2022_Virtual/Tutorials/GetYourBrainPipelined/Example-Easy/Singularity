@@ -1,0 +1,36 @@
+Bootstrap: docker
+From: ubuntu:latest
+
+%environment
+    export LC_ALL=C
+    export PATH=/usr/games:$PATH
+    export INPUT_DIR=/data/input
+    export OUTPUT_DIR=/data/input
+
+%post
+    apt-get update
+    apt-get install -y cowsay wget git
+    mkdir -p /data/input /data/output /data/include /opt/repos /opt/scripts /opt/local
+
+    # Get data from BIL to add to repo
+    # Directories starting at https://download.brainimagelibrary.org/hackathon/2022_GYBS are web-accessible
+    wget -O /data/include/pkg_data.txt https://download.brainimagelibrary.org/hackathon/2022_GYBS/src/Tutorials/GetYourBrainPipelined/Example-Easy/pkg_data.txt
+    
+    # How to get code/files via git
+    git clone https://github.com/jeffduda/GetYourBrainPipelined.git /opt/repos/GetYourBrainPipelined
+    cp /opt/repos/GetYourBrainPipelined/Example-Easy/cow_script.sh /opt/scripts/cow_script.sh
+    chmod a+x /opt/scripts/cow_script.sh
+
+    # Example for existing available data
+    #wget -O /data/input/pkg_data_figshare.txt https://figshare.com/ndownloader/files/34645619
+    
+# This does not work with a remote build instead we use
+# wget in the %post section. If building on your own 
+# system this would be the preferred way to include 
+# data in the container
+#%files
+#    pkg_data.txt /data/input
+#    cow_script.sh /opt/scripts
+
+%runscript
+    cowsay "Hello Example-Easy"

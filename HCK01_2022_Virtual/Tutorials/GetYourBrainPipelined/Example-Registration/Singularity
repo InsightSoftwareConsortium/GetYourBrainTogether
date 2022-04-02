@@ -1,0 +1,21 @@
+Bootstrap: docker
+From: jtduda/python-itk-sitk-ants:0.1.0
+
+%environment
+    export LC_ALL=C
+    export INPUT_DIR=/data/input
+    export OUTPUT_DIR=/data/output
+
+#%files
+#   save_inputs.py /opt/scripts
+#   smoothITK.py /opt/scripts
+#   smoothSimpleITK.py /opt/scripts
+#   smoothANTs.py /opt/scripts
+#   registrationANTs.py /opt/scripts
+#   registrationSimpleITK.py /opt/scripts
+#   example.sh /opt/scripts
+
+%post
+   git clone https://github.com/jeffduda/GetYourBrainPipelined.git /opt/src
+   cp /opt/src/Example-Registration/*.py /opt/scripts/.
+   cp /opt/src/Example-Registration/*.sh /opt/scripts/.
