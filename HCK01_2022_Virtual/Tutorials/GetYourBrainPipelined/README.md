@@ -28,7 +28,7 @@ Duration: 0.5 hours.
 <!-- Describe here how the tutorial will be taught, e.g. slides, Jupyter
 notebooks, and provide links to any materials. -->
 
-- [Link to material 1](https://example.com)
+- To build containers you will need a free account at [SyLabs.io](https://cloud.sylabs.io/)
 - ...
 - ...
 
