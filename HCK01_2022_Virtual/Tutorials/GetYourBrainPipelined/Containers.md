@@ -3,18 +3,30 @@ Example scripts for setting up a brain processing pipeline
 
 
 # Running on BIL
-Make sure you have a Syslabs.io account and remote toke setup as desribed in the previous tutorial
+Make sure you have a Syslabs.io account and remote token setup as described in the previous tutorial
 https://hackmd.io/@biomed-apps/B1B8mQCb5#Singularity
 
 
-from you home directory
-
-Get a repo, build a singularity image remotely, and run it
+Starting in your home directory. The first task will be to use git to download the files for this tutorial and used them to create a very simple container. The 'interact' command will start a session in an interactive node on the cluster (use 'exit' to close the session).
 ```
 interact
+user=`whoami`
 git clone https://github.com/jeffduda/GetYourBrainPipelined.git
-singularity build --remote example-easy.sif GetYourBrainPipelined/Example-Easy/Singularity
+base="GetYourBrainStraight/HCK01_2022_Virtual/Tutorials/GetYourBrainPipelined"
+singularity build --remote example-easy.sif $base/Example-Easy/Singularity
 singularity run example-easy.sif
+```
+
+You should now see something that looks like:
+```
+ ____________________
+< Hello Example-Easy >
+ --------------------
+        \   ^__^
+         \  (oo)\_______
+            (__)\       )\/\
+                ||----w |
+                ||     ||
 ```
 
 Use that singularity image to run a command in the container
