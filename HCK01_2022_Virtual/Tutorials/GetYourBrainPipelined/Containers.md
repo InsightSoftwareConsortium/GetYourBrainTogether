@@ -7,12 +7,10 @@ Make sure you have a Syslabs.io account and remote token setup as described in t
 https://hackmd.io/@biomed-apps/B1B8mQCb5#Singularity
 
 
-Starting in your home directory. The first task will be to use git to download the files for this tutorial and used them to create a very simple container. The 'interact' command will start a session in an interactive node on the cluster (use 'exit' to close the session).
+Starting in your home directory. The first task will be to use git to download the files for this tutorial and used them to create a very simple container.
 ```
-interact
 user=`whoami`
-git clone https://github.com/InsightSoftwareConsortium/GetYourBrainStraight.git
-base="GetYourBrainStraight/HCK01_2022_Virtual/Tutorials/GetYourBrainPipelined"
+base="/bil/workshops/2022/2022_GYBS/src/GetYourBrainStraight/HCK01_2022_Virtual/Tutorials/GetYourBrainPipelined"
 singularity build --remote example-easy.sif $base/Example-Easy/Singularity
 singularity run example-easy.sif
 ```
@@ -52,7 +50,7 @@ Now build an container that does some example registration. This may take 10min 
 singularity build --remote example-reg.sif $base/Example-Registration/Singularity
 mkdir data_input
 mkdir data_output
-singularity exec -B /bil/users/$user/data_input:/data/input -B /bil/users/jtduda/data_output:/data/output example-reg.sif /opt/scripts/example.sh
+singularity exec -B /bil/users/$user/data_input:/data/input -B /bil/users/$user/data_output:/data/output example-reg.sif /opt/scripts/example.sh
 ```
 
 

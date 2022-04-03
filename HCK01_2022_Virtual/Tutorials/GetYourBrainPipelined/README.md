@@ -20,8 +20,9 @@ Duration: 0.5 hours.
 
 <!-- Describe here what you would like participants to learn by the end of the tutorial. -->
 
-1. Outcome 1. How to build a singularity container on the BIL system
-2. Outcome 2. How to incorporate a container into a workflow
+1. Outcome 1. Know to build a singularity container on the BIL system
+2. Outcome 2. Know how to use a container to generate data on the local system
+2. Outcome 3. Know how to incorporate a container into a workflow
 
 ## Approach and Materials
 
@@ -29,6 +30,7 @@ Duration: 0.5 hours.
 notebooks, and provide links to any materials. -->
 
 - To build containers you will need a free account at [SyLabs.io](https://cloud.sylabs.io/)
+- The version of singularity installed on BIL is [3.8](https://sylabs.io/guides/3.8/user-guide/)
 - If you prefer to develop in Docker on your own machine, you will need a [Dockerhub](https://hub.docker.com/) account
 
 ## Background and References
