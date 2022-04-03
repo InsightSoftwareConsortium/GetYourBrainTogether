@@ -27,6 +27,8 @@ The goal of this tutorial is for students to understand how registration fits in
 imaging workflow, the limits of current registration tools, and how we can begin to generate a next 
 generation of registration tools for light-sheet imaging data.
 
+[About the hackathon Light Sheet Dataset](./AboutTheDatasets.md).
+
 Duration: 0.75 hours.
 
 ## Learning Outcomes
