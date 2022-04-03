@@ -186,10 +186,78 @@ During the BoF, find the leader by clicking on their name in the [Image.sc Islan
 If notes are taken during the BoF, please add them to the [BoF breakouts
 folder](./BoFBreakouts). We recommend [HackMD](https://hackmd.io/) for collaborative,
 well-formatted notetaking.
-    
+
 ## Code of Conduct
-    
+
 Participants and contributors are expected to adhere to the [ITK Code of Conduct](https://github.com/InsightSoftwareConsortium/ITK/blob/master/CODE_OF_CONDUCT.md).
+
+## Participants
+
+Registered participants:
+
+1. Yufei Chen, AHU
+2. oylei, AHU
+3. Alice, Allen Institute for Brain Science
+4. Pamela Baker, Allen Institute for Brain Science
+5. Lydia Ng, Allen Institute for Brain Science
+6. Rachel Dalley, Allen Institute for Brain Science
+7. Li, Anhui University
+8. Yuxiao Zhang, Anhui University
+9. tingtinghan, Anhui University
+10. Tingting Han, Anhui University
+11. Jesse, Anhui University
+12. Liyunayuan, Anhui University
+13. Iana Vasylieva, Center for Biologic Imaging, University of Pittsburgh
+14. Adrian Arias Abreu, Centre for Genomic Regulation
+15. Stuart gano, Google
+16. John Bogovic, HHMI Janelia
+17. Bin Duan, Illinois Tech
+18. Can Ceritoglu, JHU Center for Imaging Science
+19. Kaitlin Stouffer, Johns Hopkins University
+20. Thomas Athey, Johns Hopkins University
+21. Brock Wester, Johns Hopkins University Applied Physics Laboratory
+22. Erik Johnson, Johns Hopkins University Applied Physics Laboratory
+23. Dzenan Zukic, Kitware
+24. Tom Birdsong, Kitware
+25. Will Schroeder, Kitware
+26. Matt McCormick, Kitware
+27. Paul Elliott, Kitware
+28. Ebrahim Ebrahim, Kitware
+29. Viktor van der Valk, LKEB - LUMC
+30. Brian Eastwood, MBF Bioscience
+31. Kara, N/A
+32. Fae Kronman, Penn State University
+33. Yongsoo Kim, Penn State University
+34. Art Wetzel, Pittsburgh Supercomputing Center
+35. Mariah Kenney, Pittsburgh Supercomputing Center
+36. Luke Tuite, Pittsburgh Supercomputing Center
+37. Greg Hood, Pittsburgh Supercomputing Center / CMU
+38. Alexander Ropelewski, PSC
+39. Xin Wu, RTI International
+40. Zhixi Yun, SEU
+41. Adam Aji, SonoVol
+42. Yufeng Liu, Southeast University
+43. Tony Reksoatmodjo, Translucence Biosystems
+44. Kate Lawson, UC Irvine
+45. Ricardo Azevedo, UC Irvine
+46. Negin, UC Irvine
+47. Jaclyn Beck, UC Irvine
+48. Zhongkai Wu, UC San Diego
+49. Christopher Choi, UCLA
+50. Daniel Tward, UCLA
+51. Ian Bowman, UCLA BRAIN
+52. Luis, UCLA BRAIN
+53. Karl Marrett, UCLA Computer Science, VAST lab
+54. Guorong Wu, UNC Chapel Hill
+55. Hyejin Yang, UNC Chapel Hill
+56. Sarah Khan, UNC Chapel Hill
+57. Marc Niethammer, UNC Chapel Hill
+58. Carolyn McCormick, UNC Chapel Hill
+59. Min Chen, University of Pennsylvania
+60. Jeffrey Duda, University of Pennsylvania
+61. Alan Watson, University of Pittsburgh
+62. Nick Tustison, University of Virginia
+63. brian, University of Virginia
 
 ## Acknowledgements
 
