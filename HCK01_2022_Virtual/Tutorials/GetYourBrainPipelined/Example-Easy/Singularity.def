@@ -21,7 +21,7 @@ From: ubuntu:latest
  
     # How to get code/files via git
     git clone https://github.com/InsightSoftwareConsortium/GetYourBrainStraight.git /opt/repos/GetYourBrainStraight
-    cp /opt/repos/GetYourBrainStraight/HCK01_2022_Virtual/Tutorials/GetYourBrainPipelinedGetYourBrainPipelined/Example-Easy/cow_script.sh /opt/scripts/cow_script.sh
+    cp /opt/repos/GetYourBrainStraight/HCK01_2022_Virtual/Tutorials/GetYourBrainPipelined/Example-Easy/cow_script.sh /opt/scripts/cow_script.sh
     chmod a+x /opt/scripts/cow_script.sh
 
     # Example for existing available data

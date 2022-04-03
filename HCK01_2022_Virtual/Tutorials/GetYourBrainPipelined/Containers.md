@@ -11,7 +11,7 @@ Starting in your home directory. The first task will be to use git to download t
 ```
 user=`whoami`
 base="/bil/workshops/2022/2022_GYBS/src/GetYourBrainStraight/HCK01_2022_Virtual/Tutorials/GetYourBrainPipelined"
-singularity build --remote example-easy.sif $base/Example-Easy/Singularity
+singularity build --remote example-easy.sif $base/Example-Easy/Singularity.def
 singularity run example-easy.sif
 ```
 
@@ -47,7 +47,7 @@ singularity exec -B /bil/users/$user/$base/Example-Easy:/opt/local -B /bil/users
 
 Now build an container that does some example registration. This may take 10min or so.
 ```
-singularity build --remote example-reg.sif $base/Example-Registration/Singularity
+singularity build --remote example-reg.sif $base/Example-Registration/Singularity.def
 mkdir data_input
 mkdir data_output
 singularity exec -B /bil/users/$user/data_input:/data/input -B /bil/users/$user/data_output:/data/output example-reg.sif /opt/scripts/example.sh
