@@ -11,7 +11,7 @@ Starting in your home directory. The first task will be to use git to download t
 ```
 interact
 user=`whoami`
-git clone https://github.com/jeffduda/GetYourBrainPipelined.git
+git clone https://github.com/InsightSoftwareConsortium/GetYourBrainStraight.git
 base="GetYourBrainStraight/HCK01_2022_Virtual/Tutorials/GetYourBrainPipelined"
 singularity build --remote example-easy.sif $base/Example-Easy/Singularity
 singularity run example-easy.sif
@@ -36,26 +36,23 @@ singularity exec example-easy.sif cowsay "Exec Example-Easy"
 
 Use the container to run a script and data that we included in the container
 ```
-singularity exec example-easy.sif /opt/scripts/cow_script.sh /data/input/pkg_data.txt
+singularity exec example-easy.sif /opt/scripts/cow_script.sh /data/include/pkg_data.txt
 ```
 
 
 Use the container to run a locally defined scripts that access local information
 ```
 mkdir data
-echo "Local data" > data/data.txt
-echo '#!/bin/bash' > data/script.sh
-echo 'a=`cat $1`' >> data/script.sh
-echo 'cowsay $a' >> data/script.sh
-singularity exec -B /bil/users/jtduda/data:/data example-easy.sif sh /data/script.sh /data/data.txt
+echo "Local Data" > data/data.txt
+singularity exec -B /bil/users/$user/$base/Example-Easy:/opt/local -B /bil/users/$user/data:/data/input example-easy.sif /opt/local/dragon_script.sh /data/input/data.txt
 ```
 
 Now build an container that does some example registration. This may take 10min or so.
 ```
-singularity build --remote example-reg.sif GetYourBrainPipelined/Example-Registration/Singularity
+singularity build --remote example-reg.sif $base/Example-Registration/Singularity
 mkdir data_input
 mkdir data_output
-singularity exec -B /bil/users/jtduda/data_input:/data/input -B /bil/users/jtduda/data_output:/data/output example-reg.sif /opt/scripts/example.sh
+singularity exec -B /bil/users/$user/data_input:/data/input -B /bil/users/jtduda/data_output:/data/output example-reg.sif /opt/scripts/example.sh
 ```
 
 
