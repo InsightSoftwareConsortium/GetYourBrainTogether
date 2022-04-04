@@ -34,7 +34,7 @@ Duration: 1.0 hours.
 <!-- Describe here how the tutorial will be taught, e.g. slides, Jupyter
 notebooks, and provide links to any materials. -->
 
-- [Tutorial Slides](https://docs.google.com/presentation/d/14-oOoq1F258Ry8gSaYl_ISLn8R-anW7KXJnKokl95VE/edit#slide=id.g119ae6361ac_0_212)
+- [Tutorial Slides](https://docs.google.com/presentation/d/1Q2s69ohvYJ5Nfr7fbTvl6usLTmLtTFAXCLxa4UY09CY/edit?usp=sharing)
 - [Code Demo Notebooks](https://github.com/twardlab/emlddmm)
 
 

@@ -128,7 +128,7 @@ In future hackathons, we will focus on:
 
 The fMOST brain volumes and CCFv3 atlas for the hackathon are
 available [on the BIL here](https://download.brainlib.org/hackathon/2022_GYBS/input/fMOST/). The input is a
-single fMOST NIFTI brain volume.
+single fMOST NIFTI brain volume. Details about this dataset can be found [here](./Tutorials/fMOSTIntroduction).
 
 ### Challenge Dataset 2: Light-Sheet Imaged Mouse Brain Registration to CCFv3
 
