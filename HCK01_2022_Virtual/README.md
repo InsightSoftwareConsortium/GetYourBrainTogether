@@ -154,7 +154,7 @@ Tutorial sessions share how to work with open source registration tools, open ac
 
 ### Monday 4/4
 
-- [Brain Imaging Library (BIL)](https://hackmd.io/@biomed-apps/B1B8mQCb5), 1 PM-3 PM ET, (Ivan Cao-Berg, Greg Hood, Alex Ropelewski)
+- [Brain Imaging Library (BIL)](https://hackmd.io/@biomed-apps/ryuab8M79), 1 PM-3 PM ET, (Ivan Cao-Berg, Greg Hood, Alex Ropelewski)
 - [Get Your Brain Pipelined](./Tutorials/GetYourBrainPipelined), 3 PM ET, (Jeff Duda, Min Chen, Jim Gee)
 - [About the Challenge Dataset](./Tutorials/fMOSTIntroduction), 3:30 PM ET, (Lydia Ng)
 - [Registering Cleared Tissues](./Tutorials/MappingLightSheetData/MappingLightSheet.md), 4 PM ET, (Ricardo Azevedo)
