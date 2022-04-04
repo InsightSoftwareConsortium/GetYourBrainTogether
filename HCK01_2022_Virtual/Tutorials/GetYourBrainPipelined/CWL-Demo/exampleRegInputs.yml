@@ -1,0 +1,8 @@
+movingImage: 
+ class: File
+ path: /bil/users/minchen1/Pipeline/ANTSdemo/data_input/r16.nii.gz
+
+
+fixedImage: 
+ class: File
+ path: /bil/users/minchen1/Pipeline/ANTSdemo/data_input/r64.nii.gz
