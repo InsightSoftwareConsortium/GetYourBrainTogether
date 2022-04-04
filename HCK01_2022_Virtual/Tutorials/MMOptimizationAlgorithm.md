@@ -29,7 +29,7 @@ Duration: 0.5 hours.
 
 <!-- Tutorial Slides -->
 
-- [Link to material 1](https://example.com)
+- [Presentation slides](https://docs.google.com/presentation/d/1nyNtpwygYHw6AINBapRn9KEQe6tw7Vu2/edit?usp=sharing&ouid=104714065731180695520&rtpof=true&sd=true)
 -[Code on github](https://github.com/twardlab/MM_for_rigid)
 
 ## Background and References
