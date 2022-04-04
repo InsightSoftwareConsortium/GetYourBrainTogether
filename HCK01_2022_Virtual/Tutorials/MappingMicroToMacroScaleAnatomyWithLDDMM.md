@@ -35,6 +35,7 @@ Duration: 1.0 hours.
 notebooks, and provide links to any materials. -->
 
 - [Tutorial Slides](https://docs.google.com/presentation/d/1Q2s69ohvYJ5Nfr7fbTvl6usLTmLtTFAXCLxa4UY09CY/edit?usp=sharing)
+- [Code Description Slides](https://docs.google.com/presentation/d/198d6qt699pqOrk7JLgb9b0RcfB--Da5bHLBwZ51CkLw/edit?usp=sharing)
 - [Code Demo Notebooks](https://github.com/twardlab/emlddmm)
 
 
