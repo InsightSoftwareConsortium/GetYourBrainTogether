@@ -37,6 +37,5 @@ notebooks, and provide links to any materials. -->
 - [Download original and mapped neuroan reconstruction from the Brain Imaging Library](https://doi.brainimagelibrary.org/doi/10.35077/g.25)
 - [The Allen Mouse Brain Common Coordinate Framework: A 3D Reference Atlas.](https://doi.org/10.1016/j.cell.2020.04.007) Wang et al, Cell 
 2020
--[Simple ITK - Getting Started](https://simpleitk.readthedocs.io/en/master/gettingStarted.html)
 - [SimpleITK - Getting Started](https://simpleitk.readthedocs.io/en/master/fundamentalConcepts.html)
 
