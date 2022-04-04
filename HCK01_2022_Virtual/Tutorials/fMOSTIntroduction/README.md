@@ -19,7 +19,8 @@ Duration: 0.5 hours.
 
 1. Outcome 1. Learn about fMOST imaging and its use neuronal reconstruction pipeline
 2. Outcome 2. Learn about the Allen Common Coordinate Framework
-3. Outcome 3. Learn about the challenges of registering fMOST images to CCFv3
+3. Outcome 3. Learn how to download challenge data using SimpleITK
+3. Outcome 4. Learn about the challenges of registering fMOST images to CCFv3
 
 ## Approach and Materials
 
@@ -34,5 +35,8 @@ notebooks, and provide links to any materials. -->
 - [Morphological diversity of single neurons in molecularly defined cell types.](https://www.nature.com/articles/s41586-021-03941-1) Peng et al. Nature 2021
 - [Download fMOST imaging data from the Brain Imaging Library](https://download.brainimagelibrary.org/biccn/zeng/luo/fMOST/)
 - [Download original and mapped neuroan reconstruction from the Brain Imaging Library](https://doi.brainimagelibrary.org/doi/10.35077/g.25)
-- [The Allen Mouse Brain Common Coordinate Framework: A 3D Reference Atlas.](https://doi.org/10.1016/j.cell.2020.04.007) Wang et al, Cell 2020
+- [The Allen Mouse Brain Common Coordinate Framework: A 3D Reference Atlas.](https://doi.org/10.1016/j.cell.2020.04.007) Wang et al, Cell 
+2020
+-[Simple ITK - Getting Started](https://simpleitk.readthedocs.io/en/master/gettingStarted.html)
+- [SimpleITK - Getting Started](https://simpleitk.readthedocs.io/en/master/fundamentalConcepts.html)
 
