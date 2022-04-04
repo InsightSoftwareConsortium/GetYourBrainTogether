@@ -42,9 +42,7 @@ Duration: 0.75 hours.
 
 ## Approach and Materials
 
-- [Slides](https://personalmicrosoftsoftware-my.sharepoint. com/:p:
-  /g/personal/azevedor_personalmicrosoftsoftware_uci_edu/ESj7rbJDZ_9Bp6tMQIzKVDIB_BcXULKgCIqPsTJ5idnFew?e=SyWqb6)
-- [Code Demo Notebooks]()
+- [Slides](https://personalmicrosoftsoftware-my.sharepoint.com/:p:/g/personal/azevedor_personalmicrosoftsoftware_uci_edu/ESj7rbJDZ_9Bp6tMQIzKVDIBqrV_5_Mmhu3kMY5-YKNcRQ?e=wrjVU3)
 
 ## Background and References
 
