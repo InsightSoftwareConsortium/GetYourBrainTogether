@@ -24,9 +24,9 @@ pip install --user cwltool cwlref-runner
 
 
 # Demo Steps:
-1. Move the contents of this directory into the same directory as the 'example-reg.sif'
+1. Move the contents of this directory into the same directory as the 'example-reg.sif' file
 2. Edit 'exampleRegInputs.yml' to match your local path for the test images (this is an example input definition to send through the pipeline)
-3. To call the demo pipelin on BIL, run the following command:
+3. To call the demo pipeline on BIL, run the following command:
 
 ```
  cwl-runner --singularity examplePipeline.cwl exampleRegInputs.yml
