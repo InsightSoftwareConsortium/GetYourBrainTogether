@@ -38,4 +38,5 @@ notebooks, and provide links to any materials. -->
 - [The Allen Mouse Brain Common Coordinate Framework: A 3D Reference Atlas.](https://doi.org/10.1016/j.cell.2020.04.007) Wang et al, Cell 
 2020
 - [SimpleITK - Getting Started](https://simpleitk.readthedocs.io/en/master/fundamentalConcepts.html)
+- [Visualize example neuronal reconstructions from Peng et al, 2021](https://biccn.github.io/morphology-inventory-prototype/u19zeng_demo/index.html)
 
