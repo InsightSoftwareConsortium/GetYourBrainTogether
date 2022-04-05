@@ -33,7 +33,7 @@ results at application boundaries. I propose that itk.Transform objects are the 
 <!-- Describe here how the tutorial will be taught, e.g. slides, Jupyter
 notebooks, and provide links to any materials. -->
 
-- [Slides](ITK transforms as registration product.pdf)
+- [Slides](https://github.com/HastingsGreer/blog/raw/master/_assets/ITk%20transforms%20as%20registration%20product.pdf)
 - [notebook](https://colab.research.google.com/drive/1NAFFGCD2hh84kfkCQpNhSC4wK4v4MVlq?usp=sharing)
 - ...
 
