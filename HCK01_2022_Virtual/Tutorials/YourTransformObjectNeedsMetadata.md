@@ -7,16 +7,16 @@ Back to the [Tutorials List](../../README.md#tutorials-list)
 - Hastings Greer
 
 ## Tutorial Description
-    Downstream medical application code needs to correctly handle image spacing, 
-    image orientation, and unusual image origins correctly – in particular, landmarks, 
-    volume and size measurements, and mesh data are always in physical coordinates.
+Downstream medical application code needs to correctly handle image spacing, 
+image orientation, and unusual image origins correctly – in particular, landmarks, 
+volume and size measurements, and mesh data are always in physical coordinates.
 
-    If we try to manually handle this metadata by, for each downstream task, manually scaling, 
-    transposing, and shifting deformation fields, we will make mistakes and spend a lot of time. 
-    Instead, we need to use a metadata-aware representation of image registration 
-    results at application boundaries. I propose that itk.Transform objects are the current best option.
+If we try to manually handle this metadata by, for each downstream task, manually scaling, 
+transposing, and shifting deformation fields, we will make mistakes and spend a lot of time. 
+Instead, we need to use a metadata-aware representation of image registration 
+results at application boundaries. I propose that itk.Transform objects are the current best option.
     
-    [notebook](https://colab.research.google.com/drive/1NAFFGCD2hh84kfkCQpNhSC4wK4v4MVlq?usp=sharing)
+[notebook](https://colab.research.google.com/drive/1NAFFGCD2hh84kfkCQpNhSC4wK4v4MVlq?usp=sharing)
 
 ## Learning Outcomes
 
