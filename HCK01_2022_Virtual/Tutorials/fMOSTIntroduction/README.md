@@ -27,7 +27,9 @@ Duration: 0.5 hours.
 <!-- Describe here how the tutorial will be taught, e.g. slides, Jupyter
 notebooks, and provide links to any materials. -->
 
-- [Dataset Overview](Dataset%20Overview.ipynb)
+- [Notebooks](https://github.com/InsightSoftwareConsortium/GetYourBrainStraight/tree/main/HCK01_2022_Virtual/Tutorials/fMOSTIntroduction)
+  - Dataset Overview.ipynb - overview of the fMOST dataset and registration challenges
+  - SpecimenAndImageMetadata.ipynb - how to access specimen, file and image metadata
 
 ## Background and References
 
