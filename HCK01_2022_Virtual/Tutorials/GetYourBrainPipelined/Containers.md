@@ -42,7 +42,7 @@ Use the container to run a locally defined scripts that access local information
 ```
 mkdir data
 echo "Local Data" > data/data.txt
-singularity exec -B /bil/users/$user/$base/Example-Easy:/opt/local -B /bil/users/$user/data:/data/input example-easy.sif /opt/local/dragon_script.sh /data/input/data.txt
+singularity exec -B $base/Example-Easy:/opt/local -B /bil/users/$user/data:/data/input example-easy.sif /opt/local/dragon_script.sh /data/input/data.txt
 ```
 
 Now build an container that does some example registration. This may take 10min or so.

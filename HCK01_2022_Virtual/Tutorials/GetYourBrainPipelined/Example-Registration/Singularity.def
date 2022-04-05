@@ -1,6 +1,10 @@
 Bootstrap: docker
 From: jtduda/python-itk-sitk-ants:0.1.0
 
+%labels
+    Author Jeffrey Duda
+    Version 0.1.0
+
 %environment
     export LC_ALL=C
     export INPUT_DIR=/data/input
@@ -8,6 +12,7 @@ From: jtduda/python-itk-sitk-ants:0.1.0
 
 %post
     mkdir -p /data/input /data/output /data/include /opt/repos /opt/scripts /opt/local
-    git clone https://github.com/jeffduda/GetYourBrainPipelined.git /opt/src
-    cp /opt/src/Example-Registration/*.py /opt/scripts/.
-    cp /opt/src/Example-Registration/*.sh /opt/scripts/.
+    git clone https://github.com/InsightSoftwareConsortium/GetYourBrainStraight.git /opt/repos/GetYourBrainStraight
+
+    cp /opt/repos/GetYourBrainStraight/HCK01_2022_Virtual/Tutorials/GetYourBrainPipelined/Example-Registration/*.py /opt/scripts/.
+    cp /opt/repos/GetYourBrainStraight/HCK01_2022_Virtual/Tutorials/GetYourBrainPipelined/Example-Registration/*.sh /opt/scripts/.
