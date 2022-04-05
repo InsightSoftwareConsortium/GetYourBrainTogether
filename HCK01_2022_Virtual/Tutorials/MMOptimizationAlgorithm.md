@@ -1,6 +1,5 @@
 # Image Registration with a Maximization Minorization (MM) Optimization Algorithm
 
-Please note this tutorial description is in flux and will change before the event.
 
 ## Instructors
 
@@ -29,7 +28,7 @@ Duration: 0.5 hours.
 
 <!-- Tutorial Slides -->
 
-- [Link to material 1](https://example.com)
+- [Slides](https://docs.google.com/presentation/d/1nyNtpwygYHw6AINBapRn9KEQe6tw7Vu2/edit#slide=id.p1)
 -[Code on github](https://github.com/twardlab/MM_for_rigid)
 
 ## Background and References
