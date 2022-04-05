@@ -162,8 +162,8 @@ Tutorial sessions share how to work with open source registration tools, open ac
 ### Tuesday 4/5
 
 - [ITKElastix Image Registration Tutorial](./Tutorials/ITKElastixTutorial.md), 10:30-11 AM ET (Viktor van der Valk, Matt McCormick) [recording](https://drive.google.com/file/d/1-Knm-JeY3uEJ7bWS-WEwaFU0YVY4S-_t/view?usp=sharing)
-- [Metadata Preservation for Image Registration](./Tutorials/MetadataPreservation/MetadataPreservation.md), 1-2 PM ET, (Matt McCormick, Lydia Ng, Dženan Zukić)
 - [Image Registration with a Maximization Minorization (MM) Optimization Algorithm](./Tutorials/MMOptimizationAlgorithm.md), 12:30-1 PM ET (Daniel Tward, Gary Zhou, Ken Langea)
+- [Metadata Preservation for Image Registration](./Tutorials/MetadataPreservation/MetadataPreservation.md), 1-2 PM ET, (Matt McCormick, Lydia Ng, Dženan Zukić)
 - [Your Transform Object Needs Metadata](./Tutorials/YourTransformObjectNeedsMetadata.md), 4-4:45 PM ET (Hastings Greer)
 
 ### Wednesday 4/6
