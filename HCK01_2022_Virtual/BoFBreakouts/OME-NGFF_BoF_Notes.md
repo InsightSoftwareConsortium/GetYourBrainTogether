@@ -7,7 +7,7 @@
 - Iana Vasylieva
 - Ebrahim Ebrahim
 - Hastings Greer
-- Dzenan Zukic
+- Dženan Zukić
 - Paul Elliott
 - Tom Birdsong
  
