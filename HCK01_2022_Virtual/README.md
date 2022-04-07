@@ -48,12 +48,12 @@ interested in collaborating to work on relevant topics.
 ### During the Hackathon
 
 The week will start 8 AM Pacific Time, 11 AM Eastern Time, Monday, April 4th
-in an introductory all-hands videoconference. [recording](https://drive.google.com/file/d/1VpA3F6k9cjyGejRQl8bd9HWuXYQt1zNt/view?usp=sharing).
+in an introductory all-hands videoconference. [recording](https://drive.google.com/file/d/1VpA3F6k9cjyGejRQl8bd9HWuXYQt1zNt/view?usp=sharing)
 
 Following the introduction, participate in the [Reproducible Resource
 Challenge](#reproducible-resource-challenge), join the [tutorials](#tutorials), and participate [BoF breakouts](#birds-of-a-feather-breakouts).
 
-On Thursday, 11 AM Pacific Time, 2 PM Eastern Time, participants will delegate one member to present their registration processing pipelines, results, and discuss lessons learned.
+On Thursday, 11 AM Pacific Time, 2 PM Eastern Time, participants will delegate one member to present their registration processing pipelines, results, and discuss lessons learned. [recording](https://drive.google.com/file/d/1-kEpNddLeaZ1Wv09MW2VN_27MYTCDXTU/view?usp=sharing)
 
 ## Who can attend?
 
