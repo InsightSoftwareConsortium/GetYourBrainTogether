@@ -53,7 +53,7 @@ in an introductory all-hands videoconference. [recording](https://drive.google.c
 Following the introduction, participate in the [Reproducible Resource
 Challenge](#reproducible-resource-challenge), join the [tutorials](#tutorials), and participate [BoF breakouts](#birds-of-a-feather-breakouts).
 
-On Thursday, 11 AM Pacific Time, 2 PM Eastern Time, participants will delegate one member to present their registration processing pipelines, results, and discuss lessons learned. [recording](https://drive.google.com/file/d/1-kEpNddLeaZ1Wv09MW2VN_27MYTCDXTU/view?usp=sharing)
+On Thursday, 11 AM Pacific Time, 2 PM Eastern Time, participants will delegate one member to present their registration processing pipelines, results, and discuss lessons learned. [Recording](https://www.youtube.com/watch?v=LuKd6Jdny5Y)
 
 ## Who can attend?
 
@@ -168,7 +168,7 @@ Tutorial sessions share how to work with open source registration tools, open ac
 
 ### Wednesday 4/6
 
-- [OME-NGFF: Towards a community standard image file format for sharing big image data in the cloud](https://globalbioimaging.org/international-training-courses/ome-ngff-workshop-2022), 8-11 AM ET, (Christian Tischer, Josh Moore) - *Sister event -- requires additional registration*
+- [OME-NGFF: Towards a community standard image file format for sharing big image data in the cloud](https://globalbioimaging.org/international-training-courses/ome-ngff-workshop-2022), 8-11 AM ET, (Christian Tischer, Josh Moore) - *Sister event -- requires additional registration* Recordings: [Introduction to OME-NGFF next generation file format](https://www.youtube.com/watch?v=ZxpraxvGsAs), [Practical part 1](https://www.youtube.com/watch?v=dOjHtnq5E0Y), [Practical part 2](https://www.youtube.com/watch?v=dOjHtnq5E0Y)
 - [Mapping Micro to Macro Scale Anatomy with LDDMM](./Tutorials/MappingMicroToMacroScaleAnatomyWithLDDMM.md), 12-1 PM ET, (Kaitlin Stouffer, Bryson Gray, Michael Miller, Daniel Tward) [recording](https://drive.google.com/file/d/1-bwkoBg_TGUf9IGuo5hkfHcbOPKiV0U6/view?usp=sharing)
 
 <a name="how-to-add-a-tutorial"/>
