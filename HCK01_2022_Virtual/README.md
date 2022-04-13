@@ -168,7 +168,7 @@ Tutorial sessions share how to work with open source registration tools, open ac
 
 ### Wednesday 4/6
 
-- [OME-NGFF: Towards a community standard image file format for sharing big image data in the cloud](https://globalbioimaging.org/international-training-courses/ome-ngff-workshop-2022), 8-11 AM ET, (Christian Tischer, Josh Moore) - *Sister event -- requires additional registration*
+- [OME-NGFF: Towards a community standard image file format for sharing big image data in the cloud](https://globalbioimaging.org/international-training-courses/ome-ngff-workshop-2022), 8-11 AM ET, (Christian Tischer, Josh Moore) - *Sister event -- requires additional registration*  Recordings: [Intro](https://www.youtube.com/watch?v=ZxpraxvGsAs) [P1](https://www.youtube.com/watch?v=EPUQYnE3hDU) [P2](https://www.youtube.com/watch?v=dOjHtnq5E0Y)
 - [Mapping Micro to Macro Scale Anatomy with LDDMM](./Tutorials/MappingMicroToMacroScaleAnatomyWithLDDMM.md), 12-1 PM ET, (Kaitlin Stouffer, Bryson Gray, Michael Miller, Daniel Tward) [recording](https://drive.google.com/file/d/1-bwkoBg_TGUf9IGuo5hkfHcbOPKiV0U6/view?usp=sharing)
 
 <a name="how-to-add-a-tutorial"/>
