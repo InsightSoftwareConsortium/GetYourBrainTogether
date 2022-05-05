@@ -8,7 +8,6 @@ requirements:
   DockerRequirement:
     dockerPull: "example-reg"
     dockerOutputDirectory: /data/output
-  SubworkflowFeatureRequirement: {}
 
 baseCommand: ["python3", "/opt/scripts/registrationANTs.py"]
 inputs:
