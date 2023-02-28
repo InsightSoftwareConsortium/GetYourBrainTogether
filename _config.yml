@@ -1,7 +1,7 @@
 theme: jekyll-theme-primer
 
-title: Get Your Brain Straight Hackathons
-description: Materials related to the Get Your Brain Straight Neuroimage Registration Hackathons
+title: Get Your Brain Together Hackathons
+description: Materials related to the Get Your Brain Together Neuroimage Registration Hackathons
 
 plugins:
   - jekyll-mentions
