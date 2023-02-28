@@ -1,4 +1,4 @@
-# Get Your Brain Straight
+# Get Your Brain Together
 
 ## Hackathon Events
 
@@ -12,7 +12,7 @@
 
 #### What?
 
-The **Get Your Brain Straight** hackathons bring together neuroimage data
+The **Get Your Brain Together** hackathons bring together neuroimage data
 generators, image registration researchers, and neurodata compute
 infrastructure providers for a hands-on, collaborative event. This community
 collaboration aims to create reproducible, open source resources that enable
@@ -24,4 +24,4 @@ This hackathon is inspired by and based on the successful [NeurodataWithoutBorde
 
 ---
 
-This page is hosted from the InsightSoftwareConsortium organization's [GetYourBrainStraight](https://github.com/InsightSoftwareConsortium/GetYourBrainStraight) repository on github.com and is published at [insightsoftwareconsortium.github.io/GetYourBrainStraight/](https://insightsoftwareconsortium.github.io/GetYourBrainStraight/)
+This page is hosted from the InsightSoftwareConsortium organization's [GetYourBrainTogether](https://github.com/InsightSoftwareConsortium/GetYourBrainTogether) repository on github.com and is published at [insightsoftwareconsortium.github.io/GetYourBrainTogether/](https://insightsoftwareconsortium.github.io/GetYourBrainTogether/)
