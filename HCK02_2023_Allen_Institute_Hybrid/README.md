@@ -18,7 +18,7 @@ interested in collaborating to work on relevant topics.
 
 **Example ways to participate:**
 
-* [Contribute a registration pipeline resource](https://insightsoftwareconsortium.github.io/GetYourBrainTogether/HCK01_2022_Virtual/#reproducible-resource-challenge) that can be deployed on Brain Imaging Library (BIL) resources to register the challenge dataset.
+* [Contribute a registration pipeline resource](https://insightsoftwareconsortium.github.io/GetYourBrainTogether/HCK01_2022_Virtual/#reproducible-resource-challenge) to register the challenge datasets.
 * [Give a tutorial](https://insightsoftwareconsortium.github.io/GetYourBrainTogether/HCK01_2022_Virtual/#tutorials) about your registration tools. A pre-recorded or live presentation, along with example code and recipes, can teach a data analyst how to run your tool and use the output on the challenge dataset and/or another open dataset.
 * [Come and learn](https://insightsoftwareconsortium.github.io/GetYourBrainTogether/HCK01_2022_Virtual/#birds-of-a-feather-breakouts) about registration from experts in the field.
 
@@ -26,10 +26,16 @@ interested in collaborating to work on relevant topics.
 
 - **Dates:** Monday, May 22nd - Tuesday, May 23, 2023
 
-- **Location:** The second hackathon will be a hybrid in-person and online event, held on [Zoom](https://alleninstitute-org.zoom.us/j/96111568520?pwd=c2U2UXlFWmdHWVhjWWNUL3V2OWJQZz09) videoconferencing, [Image.sc Island Gather.Town](https://j.mp/imagesc-island) virtual space, and
-  [Image.sc Zulip Chat](https://imagesc.zulipchat.com/).
+- **Location:** The second hackathon will be a hybrid in-person and online event, held:
+  * At the [Allen Institute in Seattle, WA, USA](https://alleninstitute.org/)
+  * On [Zoom](https://alleninstitute-org.zoom.us/j/96111568520?pwd=c2U2UXlFWmdHWVhjWWNUL3V2OWJQZz09) videoconferencing
+  * [Image.sc Island Gather.Town](https://j.mp/imagesc-island) virtual space, and
 
-- **Registration:** Fees: none, it's free! Limited seats will be available for in-person attendance. Registration details will be announced in the mailing list below.
+  * [Image.sc Zulip Chat](https://imagesc.zulipchat.com/).
+
+If travelling to attend in-person, the [Courtyard by Marriott Seattle Downtown/Lake Union](https://goo.gl/maps/mAgTi3ZHWvBCC5Fq8) is one of many nearby hotels.
+
+- **Registration:** Limited seats will be available for in-person attendance. Registration details will be announced in the mailing list below.
 
 - **Communication:** to receive information about this and future events please join the [Hackathon Mailing List](https://groups.google.com/g/brain_straight_hackathon_announcements).
 
@@ -37,10 +43,8 @@ interested in collaborating to work on relevant topics.
 
 ### Before the Hackathon
 
-- Register for the event. There is no
-  cost.
+- Register for the event.
 - Sign up for the [mailing list](https://groups.google.com/g/brain_straight_hackathon_announcements).
-- [Set up an account](https://www.brainimagelibrary.org/computevisual.html) at the Brain Image Library (BIL).
 - Optionally prepare a tutorial or organize a Birds-of-a-Feather (BoF) Breakout.
 
 ### During the Hackathon
@@ -49,7 +53,7 @@ The week will start 9 AM Pacific Time, 12 AM Eastern Time, Monday, May 22nd
 in an introductory all-hands videoconference.
 
 Following the introduction, participate in the Reproducible Resource
-Challenge, join the tutorials, and participate BoF breakouts.
+Challenge, join the tutorials, and participate BoF breakouts. Please bring a laptop.
 
 At the end of the day on Tuesday, participants will delegate one member to present their registration processing pipelines, results, and discuss lessons learned.
 
