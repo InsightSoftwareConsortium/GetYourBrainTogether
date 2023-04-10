@@ -35,7 +35,14 @@ interested in collaborating to work on relevant topics.
 
   * [Image.sc Zulip Chat](https://imagesc.zulipchat.com/).
 
-If travelling to attend in-person, the [Courtyard by Marriott Seattle Downtown/Lake Union](https://goo.gl/maps/mAgTi3ZHWvBCC5Fq8) is one of many nearby hotels.
+If travelling to attend in-person,
+- [Courtyard by Marriott Seattle Downtown/Lake Union](https://goo.gl/maps/mAgTi3ZHWvBCC5Fq8)
+- [EVEN Hotel Seattle - South Lake Union, an IHG Hotel](https://www.reservationdesk.com/hotel/6255f19/even-hotel-seattle-south-lake-union-seattle-wa/)
+- [Astra Hotel Seattle](https://astrahotelseattle.com/)
+- [Pan Pacific Seattle](https://www.panpacific.com/en/hotels-and-resorts/pp-seattle.html)
+are among nearby hotels.
+
+- **Lead organizers / contacts:** Matt McCormick (Kitware), Sharmishtaa Seshamani (Allen Institute for Neural Dynamics)
 
 - **Registration:** Limited seats will be available for in-person attendance. Registration details will be announced in the mailing list below.
 
