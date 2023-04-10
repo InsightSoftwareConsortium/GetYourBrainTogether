@@ -20,9 +20,9 @@ interested in collaborating to work on relevant topics.
 
 **Example ways to participate:**
 
-* [Contribute a registration pipeline resource](https://insightsoftwareconsortium.github.io/GetYourBrainTogether/HCK01_2022_Virtual/#reproducible-resource-challenge) to register the challenge datasets.
-* [Give a tutorial](https://insightsoftwareconsortium.github.io/GetYourBrainTogether/HCK01_2022_Virtual/#tutorials) about your registration tools. A pre-recorded or live presentation, along with example code and recipes, can teach a data analyst how to run your tool and use the output on the challenge dataset and/or another open dataset.
-* [Come and learn](https://insightsoftwareconsortium.github.io/GetYourBrainTogether/HCK01_2022_Virtual/#birds-of-a-feather-breakouts) about registration from experts in the field.
+* [Contribute a registration pipeline resource](https://insightsoftwareconsortium.github.io/GetYourBrainTogether/HCK02_2023_Allen_Institute_Hybrid/#reproducible-resource-challenge) to register the challenge datasets.
+* [Give a tutorial](https://insightsoftwareconsortium.github.io/GetYourBrainTogether/HCK02_2023_Allen_Institute_Hybrid/#tutorials) about your registration tools. A pre-recorded or live presentation, along with example code and recipes, can teach a data analyst how to run your tool and use the output on the challenge dataset and/or another open dataset.
+* [Come and learn](https://insightsoftwareconsortium.github.io/GetYourBrainTogether/HCK02_2023_Allen_Institute_Hybrid/#birds-of-a-feather-breakouts) about registration from experts in the field.
 
 ## When, where, how much?
 
@@ -138,6 +138,21 @@ Tutorial sessions share how to work with open source registration tools, open ac
 <a name="how-to-add-a-tutorial"/>
 
 [How to add a new tutorial?](./Tutorials/README.md)
+
+## Birds-of-a-Feather Breakouts
+
+Birds-of-a-Feather (BoF) breakout sessions enable participants
+interested in collaborating to work on relevant topics.
+
+To lead or join a Birds-of-a-Feather (BoF) breakout session, create or join a
+topic [in this
+spreadsheet](https://docs.google.com/spreadsheets/d/1-uOH9yGYxomRm55c2EjP1fM4SjSABUtGLbNWMQrU5Oc/edit#gid=0).
+During the BoF, find the leader by clicking on their name in the [Image.sc Island Gather.Town](https://j.mp/imagesc-island) and moving towards their avatar with the keyboard arrow keys. When you are close to their avatar in the virtual space, you will be able to see, hear, and talk to each other.
+
+If notes are taken during the BoF, please add them to the [BoF breakouts
+folder](./BoFBreakouts). We recommend [HackMD](https://hackmd.io/) for collaborative,
+well-formatted notetaking.
+
 ## Code of Conduct
 
 Participants and contributors are expected to adhere to the [ITK Code of Conduct](https://github.com/InsightSoftwareConsortium/ITK/blob/master/CODE_OF_CONDUCT.md).
