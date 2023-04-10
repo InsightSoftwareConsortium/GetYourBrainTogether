@@ -118,6 +118,26 @@ Criteria for inclusion in a summary paper:
 The primary goals for this hackathon is to ensure that everyone's code can run on the dataset
 provided and can be replicated.
 
+## Tutorials
+
+Tutorial sessions share how to work with open source registration tools, open access datasets, or neurodata
+
+<a name="tutorials-list"/>
+
+### Monday 5/22
+
+- About the AIND Lightsheet Challenge Dataset, 9 - 9:30 AM PT, (David Feng)
+- About the Translucence Challenge Dataset, 9:30 - 10 AM PT, (Ricardo Azevedo)
+- Working with OME-Zarr NGFF, 10 AM - 10:30 AM, (Matt McCormick)
+
+### Tuesday 5/23
+
+- Large Scale Registration, 9 - 9:30 AM PT, (Matt McCormick)
+- Registration Quality Metrics, 9:30 - 10 AM PT (Tom Birdsong)
+
+<a name="how-to-add-a-tutorial"/>
+
+[How to add a new tutorial?](./Tutorials/README.md)
 ## Code of Conduct
 
 Participants and contributors are expected to adhere to the [ITK Code of Conduct](https://github.com/InsightSoftwareConsortium/ITK/blob/master/CODE_OF_CONDUCT.md).
