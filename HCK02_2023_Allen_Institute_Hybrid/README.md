@@ -1,3 +1,5 @@
+<img alt="Get Your Brain Together HCK02" src="logos/banner.png">
+
 # Welcome to the web page for the 2nd Get Your Brain Together Hackathon !
 
 ## What?
