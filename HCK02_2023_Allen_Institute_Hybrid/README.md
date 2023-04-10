@@ -86,6 +86,38 @@ https://github.com/NA-MIC/ProjectWeek/blob/b4295bddc01542ebb471d57169954b2770fd8
 
 [How to add this calendar to your own?](../common/Calendar.md)
 
+## Reproducible Resource Challenge
+
+This aim of this hackathon is to generate reproducible pipelines to register whole-brain lightsheet
+microscopy image data to the [CCFv3](https://doi.org/10.1016/j.cell.2020.04.007). Two datasets are provided,
+each with their unique quirks. You may work on either dataset during the hackathon.
+
+In order to work with the neuroimage data generators, these pipelines will take a standardized input
+without assumptions of directory structures, filenames, etc and generate standardized outputs.
+Expected outputs include: resampled brain, spatial transformation, and a manifest of outputs. The
+processing pipelines should be designed to executed in independently in parallel. The output should
+be a resampled image with the same size, orientation, and origin as the provided CCFv3. The output
+should include an affine transformation file, and a deformation field transformation file to
+transform SWC and/or annotation files from the challenge dataset image space into the CCFv3 space.
+
+Criteria for inclusion in a summary paper:
+
+- [ ] Open source with an [OSI-approved license](https://opensource.org/licenses)
+    - The code can be executed in the future
+    - Researchers can understand what the code is doing
+    - Researchers can extend or fix as needed
+- Works on open standard data formats used by data providers and consumers
+    - [ ] The provided input NIFTI or OME-NGFF images
+    - [ ] Provide outputs in open standard formats on the BIL at `/hackathon/2022_GYBS/output/<team-name>/<dataset>/*`.
+- Deployable
+    - Can be executed across many environments
+    - [ ] Provided in a
+      published [singularity](https://sylabs.io/guides/2.6/user-guide/introduction.html) image
+- [ ] Can be executed by an independent analyst on the BIL
+
+The primary goals for this hackathon is to ensure that everyone's code can run on the dataset
+provided and can be replicated.
+
 ## Code of Conduct
 
 Participants and contributors are expected to adhere to the [ITK Code of Conduct](https://github.com/InsightSoftwareConsortium/ITK/blob/master/CODE_OF_CONDUCT.md).
