@@ -62,7 +62,7 @@ The week will start 9 AM Pacific Time, 12 AM Eastern Time, Monday, May 22nd
 in an introductory all-hands videoconference.
 
 Following the introduction, participate in the Reproducible Resource
-Challenge, join the tutorials, and participate BoF breakouts. Please bring a laptop.
+Challenge, join the tutorials, and take part in BoF breakouts. Please bring a laptop.
 
 At the end of the day on Tuesday, participants will delegate one member to present their registration processing pipelines, results, and discuss lessons learned.
 
