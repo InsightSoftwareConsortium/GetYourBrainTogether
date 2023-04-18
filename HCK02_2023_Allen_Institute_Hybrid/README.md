@@ -18,6 +18,8 @@ archives.
 **Birds-of-a-Feather (BOF) Breakout** sessions enable participants
 interested in collaborating to work on relevant topics.
 
+This hackathon will focus on registration of **mouse brain lightsheet volumes** to the [Common Coordinate Framework](https://doi.org/10.1016/j.cell.2020.04.007) version 3.1 (CCFv3.1).
+
 **Example ways to participate:**
 
 * [Contribute a registration pipeline resource](https://insightsoftwareconsortium.github.io/GetYourBrainTogether/HCK02_2023_Allen_Institute_Hybrid/#reproducible-resource-challenge) to register the challenge datasets.
