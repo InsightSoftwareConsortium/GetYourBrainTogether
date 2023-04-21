@@ -54,7 +54,7 @@ are among nearby hotels.
 
 ### Before the Hackathon
 
-- Register for the event.
+- [Register](https://forms.gle/Z1Xzknz6Uxh5A7RZ7) for the event.
 - Sign up for the [mailing list](https://groups.google.com/g/brain_straight_hackathon_announcements).
 - Optionally prepare a tutorial or organize a Birds-of-a-Feather (BoF) Breakout.
 
