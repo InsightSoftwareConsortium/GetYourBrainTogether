@@ -136,13 +136,17 @@ Tutorial sessions share how to work with open source registration tools, open ac
 ### Monday 5/22
 
 - About the AIND Lightsheet Challenge Dataset, 9 - 9:30 AM PT, (David Feng)
-- About the Translucence Challenge Dataset, 9:30 - 10 AM PT, (Ricardo Azevedo)
-- Working with OME-Zarr NGFF, 10 AM - 10:30 AM, (Matt McCormick)
+- About the Translucence Challenge Dataset, 9:30 - 10 AM PT, (Damian Wheeler)
+- Working in CodeOcean, 10 AM - 10:30 AM PT
+- Working with OME-Zarr NGFF, 10:30 AM - 11 AM PT, (Matt McCormick)
+- D Tward Registration, 1 PM - 1:30 PM PT, (Daniel Tward)
 
 ### Tuesday 5/23
 
+- itk-elastix and MONAI, 8:30 - 9 AM PT, (Konstantinos Ntatis)
 - Large Scale Registration, 9 - 9:30 AM PT, (Matt McCormick)
 - Registration Quality Metrics, 9:30 - 10 AM PT (Tom Birdsong)
+- Visualization for Registration and Image Data, 10 AM - 10:30 AM PT (Paul Elliott)
 
 <a name="how-to-add-a-tutorial"/>
 
