@@ -35,7 +35,7 @@ This hackathon will focus on registration of **mouse brain lightsheet volumes** 
   * On [Zoom](https://alleninstitute-org.zoom.us/j/96111568520?pwd=c2U2UXlFWmdHWVhjWWNUL3V2OWJQZz09) videoconferencing
   * [Image.sc Island Gather.Town](https://j.mp/imagesc-island) virtual space (see this quick [Intro to Gather Town](https://docs.google.com/document/d/1QeDJXPKSdcRAINPeCNnWcNmVlCfjrc5abrHnEG39ABA/edit?usp=sharing), and
 
-  * [Image.sc Zulip Chat](https://imagesc.zulipchat.com/).
+  * [Image.sc Zulip Chat](https://imagesc.zulipchat.com/#narrow/stream/388434-.5B2023-05.5D-Get-Your-Brain-Together-Hackathon-02).
 
 If travelling to attend in-person,
 - [Courtyard by Marriott Seattle Downtown/Lake Union](https://goo.gl/maps/mAgTi3ZHWvBCC5Fq8)
