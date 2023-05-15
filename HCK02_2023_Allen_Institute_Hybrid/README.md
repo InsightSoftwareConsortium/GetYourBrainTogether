@@ -117,7 +117,6 @@ Criteria for inclusion in a summary paper:
     - Researchers can extend or fix as needed
 - Works on open standard data formats used by data providers and consumers
     - [ ] The provided input NIFTI or OME-NGFF images
-    - [ ] Provide outputs in open standard formats on the BIL at `/hackathon/2022_GYBS/output/<team-name>/<dataset>/*`.
 - Deployable
     - Can be executed across many environments
     - [ ] Provided in a
