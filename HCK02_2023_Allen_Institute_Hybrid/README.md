@@ -136,7 +136,7 @@ Tutorial sessions share how to work with open source registration tools, open ac
 
 - About the AIND Lightsheet Challenge Dataset, 9 - 9:30 AM PT, (David Feng)
 - About the Translucence Challenge Dataset, 9:30 - 10 AM PT, (Damian Wheeler)
-- Working in CodeOcean, 10 AM - 10:30 AM PT
+- Working in CodeOcean, 10 AM - 10:30 AM PT, (Jake Valsamis)
 - Working with OME-Zarr NGFF, 10:30 AM - 11 AM PT, (Matt McCormick)
 - D Tward Registration, 1 PM - 1:30 PM PT, (Daniel Tward)
 
