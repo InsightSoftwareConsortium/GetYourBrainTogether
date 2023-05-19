@@ -143,7 +143,7 @@ Tutorial sessions share how to work with open source registration tools, open ac
 
 ### Tuesday 5/23
 
-- itk-elastix and MONAI, 8:30 - 9 AM PT, (Konstantinos Ntatis)
+- itk-elastix and MONAI, 8:30 - 9 AM PT, (Konstantinos Ntatsis)
 - Large Scale Registration, 9 - 9:30 AM PT, (Matt McCormick)
 - Registration Quality Metrics, 9:30 - 10 AM PT (Tom Birdsong)
 - Visualization for Registration and Image Data, 10 AM - 10:30 AM PT (Paul Elliott)
