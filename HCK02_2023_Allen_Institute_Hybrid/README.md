@@ -121,7 +121,7 @@ Criteria for inclusion in a summary paper:
     - Can be executed across many environments
     - [ ] Provided in a
       published [singularity](https://sylabs.io/guides/2.6/user-guide/introduction.html) image
-- [ ] Can be executed by an independent analyst on the BIL
+- [ ] Can be executed by an independent analyst
 
 The primary goals for this hackathon is to ensure that everyone's code can run on the dataset
 provided and can be replicated.
@@ -169,6 +169,76 @@ well-formatted notetaking.
 ## Code of Conduct
 
 Participants and contributors are expected to adhere to the [ITK Code of Conduct](https://github.com/InsightSoftwareConsortium/ITK/blob/master/CODE_OF_CONDUCT.md).
+
+## Participants
+
+| Name                  | Organization                                            |
+| --------------------- | ------------------------------------------------------- |
+| Christine Lin         | Allen Institute                                         |
+| Nicholas Lusk         | Allen Institute                                         |
+| Jack Waters           | Allen Institute                                         |
+| Yun Wang              | Allen Institute                                         |
+| Omid Zobeiri          | Allen Institute                                         |
+| Di Wang               | Allen Institute                                         |
+| Xiao-Ping Liu         | Allen Institute                                         |
+| Tom Chartrand         | Allen Institute                                         |
+| Scott Daniel          | Allen Institute for Brain Science                       |
+| Mike Taormina         | Allen Institute for Brain Science                       |
+| Staci Sorensen        | Allen Institute for Brain Science                       |
+| Raymond Sanchez       | Allen Institute for Brain Science                       |
+| Camilo Laiton         | Allen Institute for Neural Dynamics                     |
+| Sharmishtaa Seshamani | Allen Institute for Neural Dynamics                     |
+| Gabor Kovacs          | Allen Institute for Neural Dynamics                     |
+| Chao Liu              | Anhui University                                        |
+| Liyuanyuan            | Anhui University                                        |
+| Yuxiao Zhang          | AnHui University                                        |
+| Beatriz               | Cajal Neuroscience                                      |
+| Christian Gaetano     | Cajal Neuroscience                                      |
+| Nile Graddis          | Cajal Neuroscience, Inc.                                |
+| Yaroslav Halchenko    | Dartmouth College, CON, DANDI                           |
+| Koen van der Kuil     | Erasmus MC dept. Of Neuroscience                        |
+| Koen van der Kuil     | Erasmus University Rotterdam                            |
+| Johanna Perens        | Gubra ApS                                               |
+| Casper Salinas        | Gubra ApS                                               |
+| Jacob Skytte          | Gubra ApS                                               |
+| THOMAS WHEATCROFT     | HARVARD MEDICAL SCHOOL                                  |
+| Ruilong Wang          | Hefei university of technology, Anhui, China            |
+| Brock Wester          | JHU/APL                                                 |
+| Matthew McCormick     | Kitware                                                 |
+| Tom Birdsong          | Kitware                                                 |
+| Brianna Major         | Kitware                                                 |
+| Paul Elliott          | Kitware                                                 |
+| Dženan Zukić          | Kitware                                                 |
+| Edward O'Donnell      | Kleinfeld lab, UCSD                                     |
+| Konstantinos Ntatsis  | Leiden University Medical Center                        |
+| christov              | Lorraine University, Nancy, France                      |
+| Yael Balbastre        | MGH                                                     |
+| Omar Kana             | Michigan State University                               |
+| Vlad Grouza           | Montreal Neurological Institute and Hospital            |
+| Ming Zhan             | NIMH/NIH                                                |
+| Josh Moore            | OME                                                     |
+| Fae Kronman           | Penn State                                              |
+| Deniz Parmaksiz       | Penn State College of Medicine                          |
+| Yongsoo Kim           | Penn State University                                   |
+| Sanjeev Janarthanan   | Princeton Neuroscience Institute                        |
+| Andrei Kalinichenko   | Skolkovo Institute of Science and Technology            |
+| Ekaterina             | Skolkovo Institute of Science and Technology (Skoltech) |
+| Ved Sharma            | The Rockefeller University                              |
+| Damian Wheeler        | Translucence Biosystems                                 |
+| Gary Zhou             | UCLA                                                    |
+| Daniel Tward          | UCLA                                                    |
+| Daniel Tward          | UCLA                                                    |
+| Guolong Zuo           | UCSF                                                    |
+| Adam Tyson            | University College London                               |
+| Alessandro Felder     | University College London                               |
+| Ian Curtin            | University of North Carolina at Chapel Hill             |
+| Rohit Jena            | University of Pennsylvania                              |
+| Philip Cook           | University of Pennsylvania                              |
+| Tianjia Zhu           | University of Pennsylvania                              |
+| Hyung Seok Roh        | University of Pennsylvania (PICSL)                      |
+| Nicholas Thomas-Low   | Vanderbilt University                                   |
+| Symphony Wang         | Weill Cornell Medicine                                  |
+| 黄海盟                | 安徽大学                                                |
 
 ## Acknowledgements
 
