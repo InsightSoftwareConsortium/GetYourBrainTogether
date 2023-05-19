@@ -5,6 +5,7 @@ Back to the [Tutorials List](../../README.md#tutorials-list)
 ## Instructors
 
 - David Feng (Allen Institute for Neural Dynamics)
+- Sharmishtaa Seshamani (Allen Institute for Neural Dynamics)
 - Tom Birdsong (Kitware)
 
 ## Tutorial Description
