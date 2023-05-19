@@ -5,6 +5,7 @@ Back to the [Tutorials List](../../README.md#tutorials-list)
 ## Instructors
 
 - Ricardo Azevedo (UC Irvine, Translucence Biosystems)
+- Damian Wheeler (Translucence Biosystems)
 
 ## Tutorial Description
 
@@ -29,7 +30,7 @@ generation of registration tools for light-sheet imaging data.
 
 [About the hackathon Light Sheet Dataset](./AboutTheDatasets.md).
 
-Duration: 0.75 hours.
+Duration: 0.5 hours.
 
 ## Learning Outcomes
 
