@@ -143,6 +143,7 @@ Tutorial sessions share how to work with open source registration tools, open ac
 
 ### Tuesday 5/23
 
+- Image Varifold LDDMM - 8:00 AM - 9 AM PT, (Michael Miller)
 - [itk-elastix and MONAI](./Tutorials/ITKElastixWithMONAI.md), 8:30 - 9 AM PT, (Konstantinos Ntatsis)
 - Large Scale Registration, 9 - 9:30 AM PT, (Matt McCormick)
 - Registration Quality Metrics, 9:30 - 10 AM PT (Tom Birdsong)
