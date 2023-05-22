@@ -31,7 +31,8 @@ Duration: 0.5 hours.
 <!-- Describe here how the tutorial will be taught, e.g. slides, Jupyter
 notebooks, and provide links to any materials. -->
 
-- [Reference registration pipeline](https://github.com/AllenNeuralDynamics/get-your-brain-together-23)
+- [Reference registration pipeline Code Ocean Capsule](https://codeocean.allenneuraldynamics.org/capsule/5051231/tree/v1)
+- [Reference registration pipeline GitHub Repository](https://github.com/AllenNeuralDynamics/get-your-brain-together-23)
 - [AWS Open Data Allen Institute for Neural Dynamics - Mouse Neuroanatomy and Physiology Data](https://aws.amazon.com/marketplace/pp/prodview-wrdmo2cy2pnze?sr=0-1&ref_=beagle&applicationId=AWSMPContessa)
 
 ## Background and References
