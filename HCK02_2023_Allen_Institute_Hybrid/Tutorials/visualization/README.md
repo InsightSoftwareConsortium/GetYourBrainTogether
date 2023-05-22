@@ -25,6 +25,8 @@ Duration: 0.5 hours.
 
 ## Approach and Materials
 
+- [Hello itkwidgets notebook](hello-itkwidgets.ipynb)
+- [Label map notebook](IDC_Seg_Primer_Examples.ipynb)
 - [Compare images notebook](ThinPlateSpline.ipynb)
 - [Web viewer](https://kitware.github.io/itk-vtk-viewer/app/) <- itk-vtk-viewer
 
