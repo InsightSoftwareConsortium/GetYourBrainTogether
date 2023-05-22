@@ -134,10 +134,10 @@ Tutorial sessions share how to work with open source registration tools, open ac
 
 ### Monday 5/22
 
-- [About the AIND Lightsheet Challenge Dataset](./Tutorials/AboutTheAINDLightsheetChallengeDataset.md), 9 - 9:30 AM PT, (David Feng, Sharmishtaa Seshamani, Tom Birdsong)
-- [About the Translucence Challenge Dataset](../HCK01_2022_Virtual/Tutorials/MappingLightSheetData/MappingLightSheet.md), 9:30 - 10 AM PT, (Damian Wheeler)
-- [Working in CodeOcean](./Tutorials/WorkingInCodeOcean.md), 10 AM - 10:30 AM PT, (Jake Valsamis)
-- [Working with OME-Zarr NGFF](./Tutorials/WorkingWithOMEZarrNGFF/README.md), 10:30 AM - 11 AM PT, (Matt McCormick)
+- [About the AIND Lightsheet Challenge Dataset](./Tutorials/AboutTheAINDLightsheetChallengeDataset.md), 10 - 10:30 AM PT, (David Feng, Sharmishtaa Seshamani, Tom Birdsong)
+- [About the Translucence Challenge Dataset](../HCK01_2022_Virtual/Tutorials/MappingLightSheetData/MappingLightSheet.md), 10:30 - 11 AM PT, (Damian Wheeler)
+- [Working in CodeOcean](./Tutorials/WorkingInCodeOcean.md), 11 AM - 11:30 AM PT, (Jake Valsamis)
+- [Working with OME-Zarr NGFF](./Tutorials/WorkingWithOMEZarrNGFF/README.md), 11:30 AM - 12 PM PT, (Matt McCormick)
 - D Tward Registration, 1 PM - 1:30 PM PT, (Daniel Tward)
 
 
