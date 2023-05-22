@@ -1,0 +1,1 @@
+sum([image.data.nbytes for image in multiscales.images[1:]]) / multiscales.images[0].data.nbytes
