@@ -35,10 +35,10 @@ Duration: 0.5 hours.
 
 ## Approach and Materials
 
-- [OME-Zarr Structure](./OME-Zarr_Structure.ipynb)
-- [OME-Zarr Storage Backends](./OME-Zarr_Storage_Backends.ipynb)
-- [Reading OME-Zarr Data](./Reading_OME-Zarr_Data.ipynb)
-- [Web-based OME-Zarr Visualization](./Web-based_OME-Zarr_Visualization.ipynb)
+- [OME-Zarr Structure](https://github.com/InsightSoftwareConsortium/GetYourBrainTogether/blob/main/HCK02_2023_Allen_Institute_Hybrid/Tutorials/WorkingWithOMEZarrNGFF/OME-Zarr_Structure.ipynb)
+- [OME-Zarr Storage Backends](https://github.com/InsightSoftwareConsortium/GetYourBrainTogether/blob/main/HCK02_2023_Allen_Institute_Hybrid/Tutorials/WorkingWithOMEZarrNGFF/OME-Zarr_Storage_Backends.ipynb)
+- [Reading OME-Zarr Data](https://github.com/InsightSoftwareConsortium/GetYourBrainTogether/blob/main/HCK02_2023_Allen_Institute_Hybrid/Tutorials/WorkingWithOMEZarrNGFF/Reading_OME-Zarr_Data.ipynb)
+- [Web-based OME-Zarr Visualization](https://github.com/InsightSoftwareConsortium/GetYourBrainTogether/blob/main/HCK02_2023_Allen_Institute_Hybrid/Tutorials/WorkingWithOMEZarrNGFF/Web-based_OME-Zarr_Visualization.ipynb)
 
 ## Background and References
 
