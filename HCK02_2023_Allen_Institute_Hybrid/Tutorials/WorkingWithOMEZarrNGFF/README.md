@@ -40,6 +40,8 @@ Duration: 0.5 hours.
 - [Reading OME-Zarr Data](https://github.com/InsightSoftwareConsortium/GetYourBrainTogether/blob/main/HCK02_2023_Allen_Institute_Hybrid/Tutorials/WorkingWithOMEZarrNGFF/Reading_OME-Zarr_Data.ipynb)
 - [Web-based OME-Zarr Visualization](https://github.com/InsightSoftwareConsortium/GetYourBrainTogether/blob/main/HCK02_2023_Allen_Institute_Hybrid/Tutorials/WorkingWithOMEZarrNGFF/Web-based_OME-Zarr_Visualization.ipynb)
 
+For workshop attendees, reproduce in [Code Ocean with this link](https://codeocean.allenneuraldynamics.org/capsule/9596171/tree).
+
 ## Background and References
 
 - [OME-Zarr: a cloud-optimized bioimaging file format with international community support](https://doi.org/10.1101/2023.02.17.528834)
