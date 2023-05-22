@@ -40,7 +40,7 @@ Duration: 0.5 hours.
 - [Reading OME-Zarr Data](https://github.com/InsightSoftwareConsortium/GetYourBrainTogether/blob/main/HCK02_2023_Allen_Institute_Hybrid/Tutorials/WorkingWithOMEZarrNGFF/Reading_OME-Zarr_Data.ipynb)
 - [Web-based OME-Zarr Visualization](https://github.com/InsightSoftwareConsortium/GetYourBrainTogether/blob/main/HCK02_2023_Allen_Institute_Hybrid/Tutorials/WorkingWithOMEZarrNGFF/Web-based_OME-Zarr_Visualization.ipynb)
 
-For workshop attendees, reproduce in [Code Ocean with this link](https://codeocean.allenneuraldynamics.org/capsule/9596171/tree).
+For workshop attendees, reproduce in [Code Ocean with this link](https://codeocean.allenneuraldynamics.org/capsule/1629369/tree).
 
 ## Background and References
 
