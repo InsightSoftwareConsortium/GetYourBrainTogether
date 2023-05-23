@@ -33,8 +33,7 @@ Duration: 0.5 hours.
 
 ## Approach and Materials
 
-- [Multiscale Spatial
-  Metadata](./Multiscale_Spatial_Metadata_and_Distributed_Processing.ipynb)
+- [Multiscale Spatial Metadata](https://github.com/InsightSoftwareConsortium/GetYourBrainTogether/blob/main/HCK02_2023_Allen_Institute_Hybrid/Tutorials/LargeScaleRegistration/Multiscale_Spatial_Metadata_and_Distributed_Processing.ipynb)
 
 ## Background and References
 
