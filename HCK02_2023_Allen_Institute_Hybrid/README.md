@@ -143,8 +143,9 @@ Tutorial sessions share how to work with open source registration tools, open ac
 
 ### Tuesday 5/23
 
-- [itk-elastix and MONAI](./Tutorials/ITKElastixWithMONAI.md), 8:30 - 9 AM PT, (Konstantinos Ntatsis)
+- [itk-elastix and MONAI](./Tutorials/ITKElastixWithMONAI.md), 8:30 - 9 AM PT, (Konstantinos Ntatsis, Niels Dekker)
 - [Large Scale Registration](./Tutorials/LargeScaleRegistration/README.md), 9 - 9:30 AM PT, (Matt McCormick)
+- Large Scale Registration, 9 - 9:30 AM PT, (Matt McCormick)
 - [Registration Quality Metrics](./Tutorials/RegistrationQualityMetrics.md), 9:30 - 10 AM PT (Tom Birdsong)
 - Visualization for Registration and Image Data, 10 AM - 10:30 AM PT (Paul Elliott)
 - Image Varifold LDDMM for Spatial Transcriptomics - 11:00 AM - 11:30 AM PT, (Michael Miller)
