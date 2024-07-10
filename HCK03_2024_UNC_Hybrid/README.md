@@ -2,6 +2,8 @@
 
 # Welcome to the 3rd Get Your Brain Together Hackathon !
 
+*[Register] now!*
+
 ## What?
 
 ### Purpose
@@ -64,13 +66,28 @@ https://github.com/NA-MIC/ProjectWeek/blob/b4295bddc01542ebb471d57169954b2770fd8
 - **Location:** The second hackathon will be a hybrid in-person and online event, held:
   * At the [University of North Carolina-Chapel
     Hill](https://www.unc.edu/visitors/).
-  * On Google Meet videoconferencing - link is sent via email to registered participants.
+  * On [Google Meet videoconferencing](https://meet.google.com/jtd-ckkd-xjf)
   * [Image.sc Island Gather.Town](https://j.mp/imagesc-island) virtual space (see this quick [Intro to Gather Town](https://docs.google.com/document/d/1QeDJXPKSdcRAINPeCNnWcNmVlCfjrc5abrHnEG39ABA/edit?usp=sharing), and
   * [Image.sc Zulip Chat](https://imagesc.zulipchat.com/).
 
+If travelling to attend in-person, 
+
+  * [Hampton Inn & Suites, Chapel Hill](https://www.hilton.com/en/hotels/rducohx-hampton-suites-chapel-hill-carrboro-downtown/?SEO_id=GMB-AMER-HX-RDUCOHX&y_source=1_MjA4Mzg2Mi03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D)
+  * [The Carolina Inn, Chapel Hill](https://www.hyatt.com/en-US/hotel/north-carolina/the-carolina-inn/rdudc?src=corp_lclb_gmb_seo_rdudc)
+
+are among nearby hotels.
+
 - **Lead organizers / contacts:** Matt McCormick (Kitware), Marc Niethammer (UNC)
 
-- **Cost:** *free!*
+- **Cost:** *[Registration] is free!*
+
+## How does it work?
+
+### Before the Hackathon
+
+- [Register](https://forms.gle/Z1Xzknz6Uxh5A7RZ7) for the event.
+- Sign up for the [mailing list](https://groups.google.com/g/brain_straight_hackathon_announcements).
+- Optionally prepare a tutorial.
 
 ### Who can attend?
 
@@ -88,3 +105,5 @@ This hackathon is supported by the National Institute of Mental Health (NIMH) of
 [current standard]: https://ngff.openmicroscopy.org/latest/
 [coordinate transformations draft]: https://github.com/ome/ngff/pull/138
 [FAIR]: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4792175/
+[Registration]: https://forms.gle/LL4quQsbSWawKYSa6
+[Register]: https://forms.gle/LL4quQsbSWawKYSa6
