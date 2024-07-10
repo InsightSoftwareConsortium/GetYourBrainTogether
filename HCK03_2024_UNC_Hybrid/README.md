@@ -34,6 +34,27 @@ The hackathon is structured into three key components:
 2. On the second day, small working groups will **review and propose enhancements** to the current [coordinate transformations draft] and [relevant neuroimaging additions].
 3. The third day will be dedicated to hands-on activities, where participants will **implement and apply** the proposed improvements to the standards.
 
+<div id="calendar-container">
+</div>
+
+<!--
+Adapted from https://stackoverflow.com/questions/31821974/support-user-time-zone-in-embedded-google-calendar
+https://github.com/NA-MIC/ProjectWeek/blob/b4295bddc01542ebb471d57169954b2770fd81fa/PW36_2022_Virtual/README.md
+-->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jstimezonedetect/1.0.7/jstz.min.js" integrity="sha512-pZ0i46J1zsMwPd2NQZ4IaL427jXE2RVHMk3uv/wPTNlBVp9AbB1L65/4YdrXRPLEmyZCkY9qYOOsQp44V4orHg==" crossorigin="anonymous"></script>
+
+<!--
+<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23ffffff&ctz=America%2FNew_York&mode=AGENDA&showNav=0&showTabs=1&showCalendars=0&title=1st%20Get%20Your%20Brain%20Together%20Hackathon&src=Y18zcjNyNzNycTRpbXN0cjkxMjVxOXY2ZDk4NEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&color=%23F6BF26" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+-->
+<script type="text/javascript">
+  var timezone = jstz.determine();
+  var iframe_src = 'https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23ffffff&mode=AGENDA&showNav=0&showTabs=1&showCalendars=0&title=2nd%20Get%20Your%20Brain%20Together%20Hackathon&src=Y18zcjNyNzNycTRpbXN0cjkxMjVxOXY2ZDk4NEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&color=%23F6BF26&dates=20240726%2f20240728&ctz=' + timezone.name()
+  var iframe_html = '<iframe src="' + iframe_src + 'style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>'
+  document.getElementById('calendar-container').innerHTML = iframe_html;
+</script>
+
+[How to add this calendar to your own?](../common/Calendar.md)
+
 ## When, where, how much?
 
 - **Dates:**
