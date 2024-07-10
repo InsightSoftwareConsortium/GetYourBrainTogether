@@ -1,5 +1,7 @@
 # Get Your Brain Together
 
+<img alt="Get Your Brain Together" src="common/logo.png">
+
 ## Hackathon Events
 
 ### Upcoming Events
