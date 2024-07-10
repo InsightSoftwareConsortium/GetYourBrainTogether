@@ -10,14 +10,11 @@ infrastructure providers for a hands-on, collaborative event**. This community
 collaboration aims to **create reproducible, open source resources** that enable
 discovery of the structure and function of brains.
 
-There are three components to the hackathon.
+There are three components to the hackathons.
 
-1. **Tutorial** sessions share how to work with open source registration tools, open access datasets, or neurodata
-archives.
-2. **Birds-of-a-Feather (BOF) Breakout** sessions enable participants
-interested in collaborating to work on relevant topics.
-3. Each hackathon generates a **Reproducible Resource** for registration and
-   analysis of neuroimaging datasets.
+1. **Tutorial** sessions share computational and biological knowledge around open source registration tools, open access datasets, or neurodata archives.
+2. **Birds-of-a-Feather (BOF) Breakout** sessions enable participants interested in collaborating to work on relevant topics.
+3. Each hackathon generates a **Reproducible Resource** for registration and analysis of neuroimaging datasets.
 
 ## When, where, how much?
 
