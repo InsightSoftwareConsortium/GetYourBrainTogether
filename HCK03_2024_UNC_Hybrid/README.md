@@ -28,7 +28,7 @@ This hackathon will focus on **advancing [OME-Zarr] spatial transformations**.
 
 4. **Flexibility in Analysis**: A file format that natively supports spatial transformations allows researchers to apply, modify, or reverse transformations as needed for different analysis purposes. This flexibility is critical for tasks such as longitudinal studies, multi-modal imaging, and comparative analysis across different subjects or experimental conditions.
 
-### Hackathon agenda
+### Agenda
 
 The hackathon is structured into three key components:
 
@@ -70,12 +70,10 @@ https://github.com/NA-MIC/ProjectWeek/blob/b4295bddc01542ebb471d57169954b2770fd8
   * [Image.sc Island Gather.Town](https://j.mp/imagesc-island) virtual space (see this quick [Intro to Gather Town](https://docs.google.com/document/d/1QeDJXPKSdcRAINPeCNnWcNmVlCfjrc5abrHnEG39ABA/edit?usp=sharing), and
   * [Image.sc Zulip Chat](https://imagesc.zulipchat.com/).
 
-If travelling to attend in-person, 
+If travelling to attend in-person nearby hotels include: 
 
   * [Hampton Inn & Suites, Chapel Hill](https://www.hilton.com/en/hotels/rducohx-hampton-suites-chapel-hill-carrboro-downtown/?SEO_id=GMB-AMER-HX-RDUCOHX&y_source=1_MjA4Mzg2Mi03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D)
   * [The Carolina Inn, Chapel Hill](https://www.hyatt.com/en-US/hotel/north-carolina/the-carolina-inn/rdudc?src=corp_lclb_gmb_seo_rdudc)
-
-are among nearby hotels.
 
 - **Lead organizers / contacts:** Matt McCormick (Kitware), Marc Niethammer (UNC)
 
@@ -104,6 +102,7 @@ This hackathon is supported by the National Institute of Mental Health (NIMH) of
 [OME-Zarr]: http://dx.doi.org/10.1007/s00418-023-02209-1
 [current standard]: https://ngff.openmicroscopy.org/latest/
 [coordinate transformations draft]: https://github.com/ome/ngff/pull/138
+[relevant neuroimaging additions]: https://github.com/ome/ngff/issues/208
 [FAIR]: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4792175/
 [Registration]: https://forms.gle/LL4quQsbSWawKYSa6
 [Register]: https://forms.gle/LL4quQsbSWawKYSa6

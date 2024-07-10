@@ -2,8 +2,6 @@
 
 ## Introduction
 
-#### What?
-
 The **Get Your Brain Together** hackathons **bring together neuroimage data
 generators, image registration researchers, and neurodata compute
 infrastructure providers for a hands-on, collaborative event**. This community
