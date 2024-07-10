@@ -48,7 +48,7 @@ https://github.com/NA-MIC/ProjectWeek/blob/b4295bddc01542ebb471d57169954b2770fd8
 -->
 <script type="text/javascript">
   var timezone = jstz.determine();
-  var iframe_src = 'https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23ffffff&mode=AGENDA&showNav=0&showTabs=1&showCalendars=0&title=2nd%20Get%20Your%20Brain%20Together%20Hackathon&src=Y18zcjNyNzNycTRpbXN0cjkxMjVxOXY2ZDk4NEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&color=%23F6BF26&dates=20240726%2f20240728&ctz=' + timezone.name()
+  var iframe_src = 'https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23ffffff&mode=MONTH&showNav=0&showTabs=1&showCalendars=0&title=2nd%20Get%20Your%20Brain%20Together%20Hackathon&src=Y18zcjNyNzNycTRpbXN0cjkxMjVxOXY2ZDk4NEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&color=%23F6BF26&dates=20240726%2f20240728&ctz=' + timezone.name()
   var iframe_html = '<iframe src="' + iframe_src + 'style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>'
   document.getElementById('calendar-container').innerHTML = iframe_html;
 </script>
@@ -63,11 +63,26 @@ https://github.com/NA-MIC/ProjectWeek/blob/b4295bddc01542ebb471d57169954b2770fd8
 
 - **Location:** The second hackathon will be a hybrid in-person and online event, held:
   * At the [University of North Carolina-Chapel
-    Hill](https://www.unc.edu/visitors/) in the Fred Brooke.
+    Hill](https://www.unc.edu/visitors/).
   * On Google Meet videoconferencing - link is sent via email to registered participants.
   * [Image.sc Island Gather.Town](https://j.mp/imagesc-island) virtual space (see this quick [Intro to Gather Town](https://docs.google.com/document/d/1QeDJXPKSdcRAINPeCNnWcNmVlCfjrc5abrHnEG39ABA/edit?usp=sharing), and
   * [Image.sc Zulip Chat](https://imagesc.zulipchat.com/).
 
+- **Lead organizers / contacts:** Matt McCormick (Kitware), Marc Niethammer (UNC)
+
+- **Cost:** *free!*
+
+### Who can attend?
+
+Get Your Brain Together hackathons are open to all and publicly advertised. Email announcements are sent to the [mailing list](https://groups.google.com/g/brain_straight_hackathon_announcements).
+
+## Code of Conduct
+
+Participants and contributors are expected to adhere to the [ITK Code of Conduct](https://github.com/InsightSoftwareConsortium/ITK/blob/master/CODE_OF_CONDUCT.md).
+
+## Acknowledgements
+
+This hackathon is supported by the National Institute of Mental Health (NIMH) of the National Institutes of Health (NIH) under the [BRAIN Initiative](https://braininitiative.nih.gov/) award numbers [1RF1MH126732](https://projectreporter.nih.gov/project_info_description.cfm?aid=10259930).
 
 [OME-Zarr]: http://dx.doi.org/10.1007/s00418-023-02209-1
 [current standard]: https://ngff.openmicroscopy.org/latest/
