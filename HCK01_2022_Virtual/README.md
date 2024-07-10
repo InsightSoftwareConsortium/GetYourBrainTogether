@@ -1,6 +1,6 @@
 <img alt="Get Your Brain Straight HCK01" src="logos/banner.png">
 
-# Welcome to the web page for the 1st Get Your Brain Straight Hackathon !
+# Welcome to the 1st Get Your Brain Straight Hackathon !
 
 ## What?
 

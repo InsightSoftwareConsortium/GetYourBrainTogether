@@ -1,6 +1,6 @@
 <img alt="Get Your Brain Together HCK03" src="logos/banner.png">
 
-# Welcome to the web page for the 3nd Get Your Brain Together Hackathon !
+# Welcome to the 3rd Get Your Brain Together Hackathon !
 
 ## What?
 
@@ -18,11 +18,13 @@ There are three components to the hackathons.
 
 ## When, where, how much?
 
-- **Dates:** Friday, July 26th - Sunday, July 28th, 2024
+- **Dates:**
+  * Friday, July 26th - Sunday, July 28th, 2024
+  * Details in the calendar below
 
 - **Location:** The second hackathon will be a hybrid in-person and online event, held:
   * At the [University of North Carolina-Chapel
-    Hill](https://www.unc.edu/visitors/).
+    Hill](https://www.unc.edu/visitors/) in the Fred Brooke.
   * On Google Meet videoconferencing - link is sent via email to registered participants.
   * [Image.sc Island Gather.Town](https://j.mp/imagesc-island) virtual space (see this quick [Intro to Gather Town](https://docs.google.com/document/d/1QeDJXPKSdcRAINPeCNnWcNmVlCfjrc5abrHnEG39ABA/edit?usp=sharing), and
   * [Image.sc Zulip Chat](https://imagesc.zulipchat.com/).

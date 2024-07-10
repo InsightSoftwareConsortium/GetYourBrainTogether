@@ -6,5 +6,6 @@ description: Materials related to the Get Your Brain Together Neuroimage Registr
 plugins:
   - jekyll-mentions
   - jemoji
+  - jekyll-seo-tag
 
 encoding: UTF-8

@@ -20,11 +20,11 @@ There are three components to the hackathons.
 
 ### Upcoming Events
 
-- [Hackathon 3: July 2024](HCK03_2024_UNC_Hybrid/README.md){:target="_top"} - A hackathon / workshop will be held at the University of North Carolina-Chapel Hill and online July 26-28th, 2024.
+- [Hackathon 3: July 2024](HCK03_2024_UNC_Hybrid/README.md){:target="_top"} - The **3rd Hackathon** will be held at the University of North Carolina-Chapel Hill and online July 26-28th, 2024.
 
 ### Past Events
 
-- [Hackathon 2: May 2023](HCK02_2023_Allen_Institute_Hybrid/README.md){:target="_top"} - A hackathon / workshop was held at the Allen Institute and online May 22nd-23rd, 2023.
+- [Hackathon 2: May 2023](HCK02_2023_Allen_Institute_Hybrid/README.md){:target="_top"} - The **2nd Hackathon** was held at the Allen Institute and online May 22nd-23rd, 2023.
 - [Hackathon 1: March 2022](HCK01_2022_Virtual/README.md){:target="_top"} - The **1st Hackathon** will be held April 4th-7th online.
 
 #### What is the history of the hackathons?
