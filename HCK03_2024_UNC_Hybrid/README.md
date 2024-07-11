@@ -22,7 +22,7 @@ This hackathon will focus on **advancing [OME-Zarr] spatial transformations**.
 
 1. **Reproducibility and Consistency**: Supporting spatial transformations explicitly in a file format ensures that transformations are applied consistently across different platforms and applications. This [FAIR] capability is a cornerstone of scientific research, and having standardized formats and tools facilitates verification of results by independent researchers​​.
 
-2. **Integration with Analysis Workflows**: Having spatial transformations as a first-class citizen within file formats allows for seamless integration with various image analysis workflows. Registration transformations can be used in subsequent image analysis steps without requiring additional conversion. 
+2. **Integration with Analysis Workflows**: Having spatial transformations as a first-class citizen within file formats allows for seamless integration with various image analysis workflows. Registration transformations can be used in subsequent image analysis steps without requiring additional conversion.
 
 3. **Efficiency and Accuracy**: Storing transformations within the file format avoids the need for re-sampling each time the data is processed. This reduces sampling errors and preserves the accuracy of subsequent analyses. Standardization enables on-demand transformation, which is critical for the massive volumes collected by modern microscopy techniques.
 
@@ -70,7 +70,7 @@ https://github.com/NA-MIC/ProjectWeek/blob/b4295bddc01542ebb471d57169954b2770fd8
   * [Image.sc Island Gather.Town](https://j.mp/imagesc-island) virtual space (see this quick [Intro to Gather Town](https://docs.google.com/document/d/1QeDJXPKSdcRAINPeCNnWcNmVlCfjrc5abrHnEG39ABA/edit?usp=sharing), and
   * [Image.sc Zulip Chat](https://imagesc.zulipchat.com/).
 
-If travelling to attend in-person nearby hotels include: 
+If travelling to attend in-person nearby hotels include:
 
   * [Hampton Inn & Suites, Chapel Hill](https://www.hilton.com/en/hotels/rducohx-hampton-suites-chapel-hill-carrboro-downtown/?SEO_id=GMB-AMER-HX-RDUCOHX&y_source=1_MjA4Mzg2Mi03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D)
   * [The Carolina Inn, Chapel Hill](https://www.hyatt.com/en-US/hotel/north-carolina/the-carolina-inn/rdudc?src=corp_lclb_gmb_seo_rdudc)
@@ -85,7 +85,7 @@ If travelling to attend in-person nearby hotels include:
 
 - [Register](https://forms.gle/Z1Xzknz6Uxh5A7RZ7) for the event.
 - Sign up for the [mailing list](https://groups.google.com/g/brain_straight_hackathon_announcements).
-- Optionally prepare a tutorial.
+- Optionally [prepare a tutorial](https://github.com/InsightSoftwareConsortium/GetYourBrainTogether/issues/new?assignees=thewtex&labels=tutorial%2Cevent%3AHCK03_2024_UNC&projects=&template=schedule-a-tutorial.yml&title=Tutorial%3A+My+tutorial+name).
 
 ### Who can attend?
 
