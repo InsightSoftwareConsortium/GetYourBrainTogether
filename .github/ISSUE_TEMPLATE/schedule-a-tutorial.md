@@ -1,18 +1,7 @@
----
 name: Schedule a tutorial
 about: Describe the tutorial here.
 title: "[Tutorial] My tutorial name"
 labels: event:HCK03_2024, tutorial
-assignees: thewtex
-
----
-
-body:
-
-name: Schedule a tutorial
-description: Describe a tutorial and propose a time
-title: "Tutorial: Tutorial Name"
-labels: ["tutorial", "event:HCK03_2024_UNC"]
 assignees:
   - thewtex
 
