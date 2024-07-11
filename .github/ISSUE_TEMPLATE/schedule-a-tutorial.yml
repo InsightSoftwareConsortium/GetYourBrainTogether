@@ -11,20 +11,15 @@ body:
       value: |
         _Please enter a tutorial name in the title bar above this text. Format: "Tutorial: Tutorial Name"._
 
-  - type: markdown
-    attributes:
-      value: |
-        Please provide a description of your tutorial. Possible ideas include sessions designed to impart knowledge on the application needs for coordinate transformations, the mathematical principles involved, and / or the current computational standards and tools available in the open-source ecosystem.
-    validations:
-      required: true
-
   - type: textarea
     attributes:
       label: Tutorial description
+      description: |
+        Please provide a description of your tutorial. Possible ideas include sessions designed to impart knowledge on the application needs for coordinate transformations, the mathematical principles involved, and / or the current computational standards and tools available in the open-source ecosystem.
       placeholder: |
         This tutorial will ...
     validations:
-      required: false
+      required: true
 
   - type: dropdown
     attributes:
