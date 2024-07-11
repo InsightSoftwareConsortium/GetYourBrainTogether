@@ -32,7 +32,7 @@ This hackathon will focus on **advancing [OME-Zarr] spatial transformations**.
 
 The hackathon is structured into three key components:
 
-1. The first day features **tutorial sessions** designed to impart knowledge on the **application needs** for coordinate transformation, the **mathematical principles** involved, and the **current computational standards and tools** available in the open-source ecosystem.
+1. The first day features **tutorial sessions** designed to impart knowledge on the **application needs** for coordinate transformations, the **mathematical principles** involved, and the **current computational standards and tools** available in the open-source ecosystem.
 2. On the second day, small working groups will **review and propose enhancements** to the current [coordinate transformations draft] and [relevant neuroimaging additions].
 3. The third day will be dedicated to hands-on activities, where participants will **implement and apply** the proposed improvements to the standards.
 
