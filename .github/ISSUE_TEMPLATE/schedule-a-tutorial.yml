@@ -1,9 +1,7 @@
 name: Schedule a tutorial
 description: Describe the tutorial here.
 title: "[Tutorial] My tutorial name"
-labels:
-  - event:HCK03_2024
-  - tutorial
+labels: ["tutorial", "event:HCK03_2024_UNC"]
 assignees:
   - thewtex
 
