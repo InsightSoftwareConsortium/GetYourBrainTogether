@@ -28,6 +28,7 @@ body:
       options:
         - 15 minutes
         - 30 minutes
+        - 45 minutes
     validations:
       required: true
 
