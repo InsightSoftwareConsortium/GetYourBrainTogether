@@ -68,7 +68,7 @@ https://github.com/NA-MIC/ProjectWeek/blob/b4295bddc01542ebb471d57169954b2770fd8
     Hill](https://www.unc.edu/visitors/).
   * On [Google Meet videoconferencing](https://meet.google.com/jtd-ckkd-xjf)
   * [Image.sc Island Gather.Town](https://j.mp/imagesc-island) virtual space (see this quick [Intro to Gather Town](https://docs.google.com/document/d/1QeDJXPKSdcRAINPeCNnWcNmVlCfjrc5abrHnEG39ABA/edit?usp=sharing), and
-  * [Image.sc Zulip Chat](https://imagesc.zulipchat.com/).
+  * [Image.sc Zulip Chat](https://imagesc.zulipchat.com/#narrow/stream/446321-.5B2024-07.5D-Get-Your-Brain-Together-Hackathon-03).
 
 If travelling to attend in-person nearby hotels include:
 
