@@ -18,13 +18,13 @@ This hackathon will focus on **advancing [OME-Zarr] spatial transformations**.
 
 ### Motivation
 
-[OME-Zarr] is a cloud-optimized bioimaging file format with international community support and broad adoption across neuoscience. The [current standard] supports large-scale bioimages with spatial metadata. The [coordinate transformations draft] provides a first-class for spatial-transformations in OME-Zarr, which is vitally important for neuroimaging and broader scientific imaging practices to enable:
+[OME-Zarr] is a cloud-optimized bioimaging file format with international community support and broad adoption across neuroscience. The [current standard] supports large-scale bioimages with spatial metadata. The [coordinate transformations draft] provides a first-class for spatial-transformations in OME-Zarr, which is vitally important for neuroimaging and broader scientific imaging practices to enable:
 
 1. **Reproducibility and Consistency**: Supporting spatial transformations explicitly in a file format ensures that transformations are applied consistently across different platforms and applications. This [FAIR] capability is a cornerstone of scientific research, and having standardized formats and tools facilitates verification of results by independent researchers​​.
 
 2. **Integration with Analysis Workflows**: Having spatial transformations as a first-class citizen within file formats allows for seamless integration with various image analysis workflows. Registration transformations can be used in subsequent image analysis steps without requiring additional conversion.
 
-3. **Efficiency and Accuracy**: Storing transformations within the file format avoids the need for re-sampling each time the data is processed. This reduces sampling errors and preserves the accuracy of subsequent analyses. Standardization enables on-demand transformation, which is critical for the massive volumes collected by modern microscopy techniques.
+3. **Efficiency and Accuracy**: Storing transformations within the file format avoids the need for re-sampling each time the data is processed. This reduces sampling errors and preserves the accuracy of subsequent analyses. Standardization enables on-demand transformation, critical for the massive volumes collected by modern microscopy techniques.
 
 4. **Flexibility in Analysis**: A file format that natively supports spatial transformations allows researchers to apply, modify, or reverse transformations as needed for different analysis purposes. This flexibility is critical for tasks such as longitudinal studies, multi-modal imaging, and comparative analysis across different subjects or experimental conditions.
 
@@ -34,7 +34,7 @@ The hackathon is structured into three key components:
 
 1. The first day features **tutorial sessions** designed to impart knowledge on the **application needs** for coordinate transformations, the **mathematical principles** involved, and the **current computational standards and tools** available in the open-source ecosystem.
 2. On the second day, small working groups will **review and propose enhancements** to the current [coordinate transformations draft] and [relevant neuroimaging additions].
-3. The third day will be dedicated to hands-on activities, where participants will **implement and apply** the proposed improvements to the standards.
+3. The third day will be dedicated to hands-on activities, during which participants will **implement and apply** the proposed improvements to the standards.
 
 <div id="calendar-container">
 </div>
@@ -83,7 +83,7 @@ If travelling to attend in-person nearby hotels include:
 
 ### Before the Hackathon
 
-- [Register](https://forms.gle/Z1Xzknz6Uxh5A7RZ7) for the event.
+- [Register] for the event.
 - Sign up for the [mailing list](https://groups.google.com/g/brain_straight_hackathon_announcements).
 - Optionally [prepare a tutorial](https://github.com/InsightSoftwareConsortium/GetYourBrainTogether/issues/new?assignees=thewtex&labels=tutorial%2Cevent%3AHCK03_2024_UNC&projects=&template=schedule-a-tutorial.yml&title=Tutorial%3A+My+tutorial+name).
 
@@ -98,7 +98,7 @@ Get Your Brain Together hackathons are open to all and publicly advertised. Emai
 ### Friday 7/26
 
 BigWarp and Ome-Zarr: a match made in Fiji - 11:00 AM ET - John Bogovic, Janelia Research
-: BigWarp is a Fiji / Java tool for manual, deformable 2D and 3D image registration. This tutorial will highlight the ways BigWarp uses the draft transformation specification for import and export. In particular, I will show use case where, given a moving image, a target image, and a set of transformations, bigwarp automatically determines which transformations to apply, in what direction (forward or inverse), and in what order. We will discuss how the Ome-Zarr transformation specification enables this functionality. If there is time and interest, I will show how BigWarp interpolates two transformations using a mask image, and how decomposing transformations into parts results in nicer behavior.
+: BigWarp is a Fiji / Java tool for manual, deformable 2D and 3D image registration. This tutorial will highlight the ways BigWarp uses the draft transformation specification for import and export. In particular, I will show a use case where, given a moving image, a target image, and a set of transformations, bigwarp automatically determines which transformations to apply, in what direction (forward or inverse), and in what order. We will discuss how the Ome-Zarr transformation specification enables this functionality. If there is time and interest, I will show how BigWarp interpolates two transformations using a mask image, and how decomposing transformations into parts results in nicer behavior.
 
 ## Code of Conduct
 
