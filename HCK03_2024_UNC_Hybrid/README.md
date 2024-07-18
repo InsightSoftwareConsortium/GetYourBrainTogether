@@ -61,6 +61,7 @@ https://github.com/NA-MIC/ProjectWeek/blob/b4295bddc01542ebb471d57169954b2770fd8
 
 - **Dates:**
   * Friday, July 26th - Sunday, July 28th, 2024
+  * Attend all or part of one of the days
   * Details in the calendar below
 
 - **Location:** The second hackathon will be a hybrid in-person and online event, held:
