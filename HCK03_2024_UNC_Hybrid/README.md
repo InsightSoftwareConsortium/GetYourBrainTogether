@@ -97,7 +97,7 @@ Get Your Brain Together hackathons are open to all and publicly advertised. Emai
 
 ### Friday 7/26
 
-BigWarp and Ome-Zarr: a match made in Fiji - 11:00 AM ET
+BigWarp and Ome-Zarr: a match made in Fiji - 11:00 AM ET - John Bogovic, Janelia Research
 : BigWarp is a Fiji / Java tool for manual, deformable 2D and 3D image registration. This tutorial will highlight the ways BigWarp uses the draft transformation specification for import and export. In particular, I will show use case where, given a moving image, a target image, and a set of transformations, bigwarp automatically determines which transformations to apply, in what direction (forward or inverse), and in what order. We will discuss how the Ome-Zarr transformation specification enables this functionality. If there is time and interest, I will show how BigWarp interpolates two transformations using a mask image, and how decomposing transformations into parts results in nicer behavior.
 
 ## Code of Conduct
