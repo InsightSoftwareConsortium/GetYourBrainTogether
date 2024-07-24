@@ -119,6 +119,10 @@ Making Meaningful (Mouse) Mappings - 11:30 AM ET - Nick Tustison - University of
 
 Fully functional examples of the above are provided at a [dedicated GitHub repository](https://github.com/ntustison/ANTsXMouseBrainMapping) meant to accompany our recent [preprint](https://www.biorxiv.org/content/10.1101/2024.05.01.592056v1).  The tutorial will be given using the [ANTsPy toolkit](https://github.com/ANTsX/ANTsPy) with functionality self-contained tutorials [available](https://tinyurl.com/antsxtutorial).
 
+Your Transform Object needs Metadata - 1:00 PM ET - Thomas Hastings Greer - University of North Carolina-Chapel Hill
+: Downstream medical application code needs to correctly handle image spacing, image orientation, and unusual image origins correctly – in particular, landmarks, volume and size measurements, and mesh data are always in physical coordinates.
+: If we try to manually handle this metadata by, for each downstream task, manually scaling, transposing, and shifting deformation fields, we will make mistakes and spend a lot of time. Instead, we need to use a metadata-aware representation of image registration results at application boundaries. I propose that itk.Transform objects are the current best option.
+
 ## Code of Conduct
 
 Participants and contributors are expected to adhere to the [ITK Code of Conduct](https://github.com/InsightSoftwareConsortium/ITK/blob/master/CODE_OF_CONDUCT.md).
