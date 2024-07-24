@@ -64,12 +64,12 @@ https://github.com/NA-MIC/ProjectWeek/blob/b4295bddc01542ebb471d57169954b2770fd8
   * Attend all or part of one of the days
   * Details in the calendar below
 
-- **Location:** The second hackathon will be a hybrid in-person and online event, held:
+- **Location:** The second hackathon will be a _hybrid in-person and online event_, held:
+  * On [Google Meet videoconferencing](https://meet.google.com/jtd-ckkd-xjf)
   * At the [University of North Carolina-Chapel
     Hill](https://www.unc.edu/visitors/).
     - [FB141](https://cs.unc.edu/resources/floor-plans/) in the [Brooks Building](https://maps.app.goo.gl/MDhVecvbmMfXYryu9) (Computer Science across the street from the Carolina Inn)
     - <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3231.5231590711087!2d-79.0556608864898!3d35.90969261727207!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89acc2e6203bf08f%3A0xfa61493fe6d88565!2sS%20Columbia%20St%20Brooks%20Computer%20Science%20Building%2C%20Chapel%20Hill%2C%20NC%2027599!5e0!3m2!1sen!2sus!4v1721838603113!5m2!1sen!2sus" width="300" height="250" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-  * On [Google Meet videoconferencing](https://meet.google.com/jtd-ckkd-xjf)
   * [Image.sc Island Gather.Town](https://j.mp/imagesc-island) virtual space (see this quick [Intro to Gather Town](https://docs.google.com/document/d/1QeDJXPKSdcRAINPeCNnWcNmVlCfjrc5abrHnEG39ABA/edit?usp=sharing), and
   * [Image.sc Zulip Chat](https://imagesc.zulipchat.com/#narrow/stream/446321-.5B2024-07.5D-Get-Your-Brain-Together-Hackathon-03).
 
