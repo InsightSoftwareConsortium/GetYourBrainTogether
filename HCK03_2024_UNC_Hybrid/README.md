@@ -108,6 +108,8 @@ An implementation decoupling the storage representation from the in-memory repre
 : Our first implementation was in the form of classes modeled closely after the NGFF design. While optimal for read/write operations, we soon realized that our API requirements needed to differentiate between the on-disk and in-memory representation.
 : In the tutorial, we will discuss the lessons learned, the "selling points" and the limitations of our APIs, and the "behind the scenes", showing some technical details of our current implementation. We will also discuss a planned refactoring that will create a bridge between NGFF transformations and the xarray system of representing data coordinates.
 
+napari-spatialdata - 10:30 AM ET - Wouter-Michiel Adrien Maria Vierdag, EMBL
+
 BigWarp and Ome-Zarr: a match made in Fiji - 11:00 AM ET - John Bogovic, Janelia Research
 : BigWarp is a Fiji / Java tool for manual, deformable 2D and 3D image registration. This tutorial will highlight the ways BigWarp uses the draft transformation specification for import and export. In particular, I will show a use case where, given a moving image, a target image, and a set of transformations, bigwarp automatically determines which transformations to apply, in what direction (forward or inverse), and in what order. We will discuss how the Ome-Zarr transformation specification enables this functionality. If there is time and interest, I will show how BigWarp interpolates two transformations using a mask image, and how decomposing transformations into parts results in nicer behavior.
 
