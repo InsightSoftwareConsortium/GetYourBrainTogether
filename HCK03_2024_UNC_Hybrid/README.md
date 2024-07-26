@@ -100,7 +100,7 @@ Get Your Brain Together hackathons are open to all and publicly advertised. Emai
 
 ### Friday 7/26
 
-Giotto Spatial Transforms - 9:00 AM ET - Jiaji Chen (George) - Boston University
+[Giotto Spatial Transforms](./giotto_spatial_transforms.html) - 9:00 AM ET - Jiaji Chen (George) - Boston University
 : Spatial transformations of data will become more and more important in the near future due to the fact that performing spatial analyses across any two sections of tissue from the same block will require that data to be spatially aligned into a common coordinate space. Minute differences during the sectioning process from the cutting motion to how long an FFPE section was floated can result in even neighboring sections being distorted when compared side-by-side.
 : These differences make it difficult to assemble multislice and/or cross platform multimodal datasets into a cohesive 3D volume. The solution for this is to perform registration across either the dataset images or expression information. Based on the registration results, both the raster images and vector feature and polygon information can be aligned into a continuous whole.
 : Ideally this registration will be a free deformation based on sets of control points or a deformation matrix, however affine transforms already provide a good approximation. In either case, the transform or deformation applied must work in the same way across both raster and vector information.
