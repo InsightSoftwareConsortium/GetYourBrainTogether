@@ -109,7 +109,7 @@ Get Your Brain Together hackathons are open to all and publicly advertised. Emai
 MONAI Lazy Transforms and Geometric Transforms Proposal Discussion - 9:30 AM ET - Benjamin Murray, King's College London 
 : Discuss how multiple coordinate transformations are deferred for computation in [MONAI](https://monai.io) and the proposal for Geometric Transforms.
 
-An implementation decoupling the storage representation from the in-memory representation - 10:00 AM ET - Luca Marconato, EMBL 
+[An implementation decoupling the storage representation from the in-memory representation](./decoupling_in_memory_from_disk.pdf) - 10:00 AM ET - Luca Marconato, EMBL 
 : Within the [SpatialData](https://github.com/scverse/spatialdata/) library (a Python package for representing and processing spatial molecular datasets), we needed a way to represent vector and raster data across coordinate systems and store affine and non-linear coordinate transformations between them. We also needed to store this information in a language-agnostic way, so we decided to rely on the NGFF specification to represent the data.
 : Our first implementation was in the form of classes modeled closely after the NGFF design. While optimal for read/write operations, we soon realized that our API requirements needed to differentiate between the on-disk and in-memory representation.
 : In the tutorial, we will discuss the lessons learned, the "selling points" and the limitations of our APIs, and the "behind the scenes", showing some technical details of our current implementation. We will also discuss a planned refactoring that will create a bridge between NGFF transformations and the xarray system of representing data coordinates.
