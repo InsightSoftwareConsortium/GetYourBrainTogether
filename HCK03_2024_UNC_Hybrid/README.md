@@ -98,6 +98,9 @@ Get Your Brain Together hackathons are open to all and publicly advertised. Emai
 
 <a name="tutorials-list"/>
 
+[Tutorials Video Recording](https://drive.google.com/file/d/16smj-D7b2bPdYVY7feaHCvMgiPAEKj1m/view?usp=sharing)
+[Tutorial Transcript](https://docs.google.com/document/d/1UC4mHTv1_gcsEmLRRzY1E-CyRhlZ5aZmBYWOYyfEBs0/edit?usp=sharing)
+
 ### Friday 7/26
 
 [Giotto Spatial Transforms](./giotto_spatial_transforms.html) - 9:00 AM ET - Jiaji Chen (George) - Boston University
