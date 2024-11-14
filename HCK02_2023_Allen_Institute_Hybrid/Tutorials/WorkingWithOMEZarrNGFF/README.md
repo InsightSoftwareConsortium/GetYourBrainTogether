@@ -52,3 +52,9 @@ For workshop attendees, reproduce in [Code Ocean with this link](https://codeoce
 - [Distributed Archives for Neurophysiology Data Integration (DANDI)](https://www.dandiarchive.org/)
 - [NEUBIAS OME-Zarr Training Modules](https://neubias.github.io/training-resources/ome_zarr/index.html)
 
+## Licensing
+
+This repository uses dual licensing:
+
+- All source code is licensed under the Apache License 2.0
+- Documentation, images, and other non-code assets are licensed under Creative Commons Attribution 4.0 International (CC BY 4.0)
